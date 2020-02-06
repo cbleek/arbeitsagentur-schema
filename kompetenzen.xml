@@ -393,21 +393,22 @@
     <komp-parent>57351</komp-parent>
     <bezeichnung>Kletterausbildung (Baum)</bezeichnung>
     <kurs-codenr>C 1835-15</kurs-codenr>
-    <suchw>11438065</suchw>
-    <suchw>11438066</suchw>
-    <suchw>11438067</suchw>
-    <suchw>11438068</suchw>
-    <suchw>11438069</suchw>
-    <suchw>11438070</suchw>
-    <suchw>11438071</suchw>
-    <suchw>11438072</suchw>
-    <suchw>11438073</suchw>
-    <suchw>11438074</suchw>
-    <suchw>11438075</suchw>
-    <suchw>11438076</suchw>
-    <suchw>11438077</suchw>
-    <suchw>11438078</suchw>
-    <suchw>11438079</suchw>
+    <suchw>15150820</suchw>
+    <suchw>15150821</suchw>
+    <suchw>15150822</suchw>
+    <suchw>15150823</suchw>
+    <suchw>15150824</suchw>
+    <suchw>15150825</suchw>
+    <suchw>15150826</suchw>
+    <suchw>15150827</suchw>
+    <suchw>15150828</suchw>
+    <suchw>15150829</suchw>
+    <suchw>15150830</suchw>
+    <suchw>15150831</suchw>
+    <suchw>15150832</suchw>
+    <suchw>15150833</suchw>
+    <suchw>15150834</suchw>
+    <suchw>15150835</suchw>
   </kompmerkmal>
   <kompmerkmal id="60146">
     <komp-parent>57351</komp-parent>
@@ -4954,9 +4955,9 @@
     <komp-parent>57382</komp-parent>
     <bezeichnung>Technisches Zeichnen</bezeichnung>
     <kurs-codenr>C 0620</kurs-codenr>
-    <suchw>11440008</suchw>
-    <suchw>11440009</suchw>
-    <suchw>11440010</suchw>
+    <suchw>14920692</suchw>
+    <suchw>14920693</suchw>
+    <suchw>14920694</suchw>
   </kompmerkmal>
   <kompmerkmal id="60682">
     <komp-parent>57382</komp-parent>
@@ -5779,21 +5780,22 @@
     <komp-parent>57384</komp-parent>
     <bezeichnung>Qualitätsprüfung, Qualitätssicherung</bezeichnung>
     <kurs-codenr/>
-    <suchw>11440471</suchw>
-    <suchw>11440472</suchw>
-    <suchw>11440473</suchw>
-    <suchw>11440474</suchw>
-    <suchw>11440475</suchw>
-    <suchw>11440476</suchw>
-    <suchw>11440477</suchw>
-    <suchw>11440478</suchw>
-    <suchw>11440479</suchw>
-    <suchw>11440480</suchw>
-    <suchw>11440481</suchw>
-    <suchw>11440482</suchw>
-    <suchw>11440483</suchw>
-    <suchw>11440484</suchw>
-    <suchw>11440485</suchw>
+    <suchw>14960200</suchw>
+    <suchw>14960201</suchw>
+    <suchw>14960202</suchw>
+    <suchw>14960203</suchw>
+    <suchw>14960204</suchw>
+    <suchw>14960205</suchw>
+    <suchw>14960206</suchw>
+    <suchw>14960207</suchw>
+    <suchw>14960208</suchw>
+    <suchw>14960209</suchw>
+    <suchw>14960210</suchw>
+    <suchw>14960211</suchw>
+    <suchw>14960212</suchw>
+    <suchw>14960213</suchw>
+    <suchw>14960214</suchw>
+    <suchw>14960215</suchw>
   </kompmerkmal>
   <kompmerkmal id="60763">
     <komp-parent>57384</komp-parent>
@@ -5828,16 +5830,14 @@
     <suchw>11440502</suchw>
   </kompmerkmal>
   <kompmerkmal id="60766">
-    <komp-parent>57383</komp-parent>
+    <komp-parent>57385</komp-parent>
     <bezeichnung>Arbeiten unter Lupe/Mikroskop (Kleinstteile)</bezeichnung>
     <kurs-codenr>C 2810-10</kurs-codenr>
-    <suchw>11440538</suchw>
-    <suchw>11440539</suchw>
-    <suchw>11440540</suchw>
-    <suchw>11440541</suchw>
-    <suchw>11440542</suchw>
-    <suchw>11440543</suchw>
-    <suchw>11440544</suchw>
+    <suchw>14606863</suchw>
+    <suchw>14606864</suchw>
+    <suchw>14606865</suchw>
+    <suchw>14606866</suchw>
+    <suchw>14606867</suchw>
   </kompmerkmal>
   <kompmerkmal id="60767">
     <komp-parent>57385</komp-parent>
@@ -7836,8 +7836,9 @@
     <komp-parent>57412</komp-parent>
     <bezeichnung>Küchenfleischerei</bezeichnung>
     <kurs-codenr>C 1850-10-20</kurs-codenr>
-    <suchw>11441477</suchw>
-    <suchw>11441478</suchw>
+    <suchw>15303260</suchw>
+    <suchw>15303261</suchw>
+    <suchw>15303262</suchw>
   </kompmerkmal>
   <kompmerkmal id="60993">
     <komp-parent>57412</komp-parent>
@@ -9957,8 +9958,9 @@
     <komp-parent>57434</komp-parent>
     <bezeichnung>Reifendienst</bezeichnung>
     <kurs-codenr>C 2440-10-10</kurs-codenr>
-    <suchw>11442437</suchw>
-    <suchw>11442438</suchw>
+    <suchw>15150836</suchw>
+    <suchw>15150837</suchw>
+    <suchw>15150838</suchw>
   </kompmerkmal>
   <kompmerkmal id="61233">
     <komp-parent>57434</komp-parent>
@@ -10249,19 +10251,19 @@
     <komp-parent>59964</komp-parent>
     <bezeichnung>Automatisierungstechnik, Prozessautomatisierung</bezeichnung>
     <kurs-codenr/>
-    <suchw>14285269</suchw>
-    <suchw>14285270</suchw>
-    <suchw>14285271</suchw>
-    <suchw>14285272</suchw>
-    <suchw>14285273</suchw>
-    <suchw>14285274</suchw>
-    <suchw>14285275</suchw>
-    <suchw>14285276</suchw>
-    <suchw>14285277</suchw>
-    <suchw>14285278</suchw>
-    <suchw>14285279</suchw>
-    <suchw>14285280</suchw>
-    <suchw>14285281</suchw>
+    <suchw>15033515</suchw>
+    <suchw>15033516</suchw>
+    <suchw>15033517</suchw>
+    <suchw>15033518</suchw>
+    <suchw>15033519</suchw>
+    <suchw>15033520</suchw>
+    <suchw>15033521</suchw>
+    <suchw>15033522</suchw>
+    <suchw>15033523</suchw>
+    <suchw>15033524</suchw>
+    <suchw>15033525</suchw>
+    <suchw>15033526</suchw>
+    <suchw>15033527</suchw>
   </kompmerkmal>
   <kompmerkmal id="61261">
     <komp-parent>59964</komp-parent>
@@ -10379,14 +10381,14 @@
     <komp-parent>59964</komp-parent>
     <bezeichnung>SPS-Programmierung, SPS-Technik</bezeichnung>
     <kurs-codenr/>
-    <suchw>11442678</suchw>
-    <suchw>11442679</suchw>
-    <suchw>11442680</suchw>
-    <suchw>11442681</suchw>
-    <suchw>11442682</suchw>
-    <suchw>11442683</suchw>
-    <suchw>11442684</suchw>
-    <suchw>11442685</suchw>
+    <suchw>15033528</suchw>
+    <suchw>15033529</suchw>
+    <suchw>15033530</suchw>
+    <suchw>15033531</suchw>
+    <suchw>15033532</suchw>
+    <suchw>15033533</suchw>
+    <suchw>15033534</suchw>
+    <suchw>15033535</suchw>
   </kompmerkmal>
   <kompmerkmal id="61274">
     <komp-parent>59965</komp-parent>
@@ -10645,9 +10647,9 @@
     <komp-parent>59965</komp-parent>
     <bezeichnung>Mikroelektronik</bezeichnung>
     <kurs-codenr>C 0415-15</kurs-codenr>
-    <suchw>11442823</suchw>
-    <suchw>11442824</suchw>
-    <suchw>11442825</suchw>
+    <suchw>15033536</suchw>
+    <suchw>15033537</suchw>
+    <suchw>15033538</suchw>
   </kompmerkmal>
   <kompmerkmal id="61304">
     <komp-parent>59965</komp-parent>
@@ -12654,8 +12656,8 @@
     <komp-parent>59970</komp-parent>
     <bezeichnung>Sensorik</bezeichnung>
     <kurs-codenr>C 0410-15</kurs-codenr>
-    <suchw>11443931</suchw>
-    <suchw>11443932</suchw>
+    <suchw>15033544</suchw>
+    <suchw>15033545</suchw>
   </kompmerkmal>
   <kompmerkmal id="61511">
     <komp-parent>59970</komp-parent>
@@ -17510,12 +17512,13 @@
     <komp-parent>59907</komp-parent>
     <bezeichnung>Stadtplanung</bezeichnung>
     <kurs-codenr>C 0040-15</kurs-codenr>
-    <suchw>11446270</suchw>
-    <suchw>11446271</suchw>
-    <suchw>11446272</suchw>
-    <suchw>11446273</suchw>
-    <suchw>11446274</suchw>
-    <suchw>11446275</suchw>
+    <suchw>14570243</suchw>
+    <suchw>14570244</suchw>
+    <suchw>14570245</suchw>
+    <suchw>14570246</suchw>
+    <suchw>14570247</suchw>
+    <suchw>14570248</suchw>
+    <suchw>14570249</suchw>
   </kompmerkmal>
   <kompmerkmal id="62046">
     <komp-parent>59907</komp-parent>
@@ -18546,19 +18549,20 @@
     <komp-parent>57462</komp-parent>
     <bezeichnung>Facility-Management</bezeichnung>
     <kurs-codenr>C 0220-20-30</kurs-codenr>
-    <suchw>11446832</suchw>
-    <suchw>11446833</suchw>
-    <suchw>11446834</suchw>
-    <suchw>11446835</suchw>
-    <suchw>11446836</suchw>
-    <suchw>11446837</suchw>
-    <suchw>11446838</suchw>
-    <suchw>11446839</suchw>
-    <suchw>11446840</suchw>
-    <suchw>11446841</suchw>
-    <suchw>11446842</suchw>
-    <suchw>11446843</suchw>
-    <suchw>11446844</suchw>
+    <suchw>15110968</suchw>
+    <suchw>15110969</suchw>
+    <suchw>15110970</suchw>
+    <suchw>15110971</suchw>
+    <suchw>15110972</suchw>
+    <suchw>15110973</suchw>
+    <suchw>15110974</suchw>
+    <suchw>15110975</suchw>
+    <suchw>15110976</suchw>
+    <suchw>15110977</suchw>
+    <suchw>15110978</suchw>
+    <suchw>15110979</suchw>
+    <suchw>15110980</suchw>
+    <suchw>15110981</suchw>
   </kompmerkmal>
   <kompmerkmal id="62151">
     <komp-parent>57462</komp-parent>
@@ -19550,18 +19554,19 @@
     <komp-parent>59981</komp-parent>
     <bezeichnung>Customer-Relationship-Management (CRM)</bezeichnung>
     <kurs-codenr>C 0240-20-10</kurs-codenr>
-    <suchw>11447313</suchw>
-    <suchw>11447314</suchw>
-    <suchw>11447315</suchw>
-    <suchw>11447316</suchw>
-    <suchw>11447317</suchw>
-    <suchw>11447318</suchw>
-    <suchw>11447319</suchw>
-    <suchw>11447320</suchw>
-    <suchw>11447321</suchw>
-    <suchw>11447322</suchw>
-    <suchw>11447323</suchw>
-    <suchw>11447324</suchw>
+    <suchw>15033552</suchw>
+    <suchw>15033553</suchw>
+    <suchw>15033554</suchw>
+    <suchw>15033555</suchw>
+    <suchw>15033556</suchw>
+    <suchw>15033557</suchw>
+    <suchw>15033558</suchw>
+    <suchw>15033559</suchw>
+    <suchw>15033560</suchw>
+    <suchw>15033561</suchw>
+    <suchw>15033562</suchw>
+    <suchw>15033563</suchw>
+    <suchw>15033564</suchw>
   </kompmerkmal>
   <kompmerkmal id="62262">
     <komp-parent>59981</komp-parent>
@@ -20442,12 +20447,12 @@
     <komp-parent>59985</komp-parent>
     <bezeichnung>Enterprise Resource Planning (ERP)</bezeichnung>
     <kurs-codenr>C 0235-20-10</kurs-codenr>
-    <suchw>11447850</suchw>
-    <suchw>11447851</suchw>
-    <suchw>11447852</suchw>
-    <suchw>11447853</suchw>
-    <suchw>11447854</suchw>
-    <suchw>11447855</suchw>
+    <suchw>15033573</suchw>
+    <suchw>15033574</suchw>
+    <suchw>15033575</suchw>
+    <suchw>15033576</suchw>
+    <suchw>15033577</suchw>
+    <suchw>15033578</suchw>
   </kompmerkmal>
   <kompmerkmal id="62352">
     <komp-parent>59985</komp-parent>
@@ -20639,11 +20644,13 @@
     <komp-parent>59985</komp-parent>
     <bezeichnung>Outsourcing</bezeichnung>
     <kurs-codenr>C 0235-10-10</kurs-codenr>
-    <suchw>11447939</suchw>
-    <suchw>11447940</suchw>
-    <suchw>11447941</suchw>
-    <suchw>11447942</suchw>
-    <suchw>11447943</suchw>
+    <suchw>14488043</suchw>
+    <suchw>14488044</suchw>
+    <suchw>14488045</suchw>
+    <suchw>14488046</suchw>
+    <suchw>14488047</suchw>
+    <suchw>14488048</suchw>
+    <suchw>14488049</suchw>
   </kompmerkmal>
   <kompmerkmal id="62372">
     <komp-parent>59985</komp-parent>
@@ -23335,10 +23342,11 @@
     <komp-parent>57492</komp-parent>
     <bezeichnung>Bestandskontrolle (Lagerwirtschaft)</bezeichnung>
     <kurs-codenr>C 1615-15</kurs-codenr>
-    <suchw>11449418</suchw>
-    <suchw>11449419</suchw>
-    <suchw>11449420</suchw>
-    <suchw>11449421</suchw>
+    <suchw>15033599</suchw>
+    <suchw>15033600</suchw>
+    <suchw>15033601</suchw>
+    <suchw>15033602</suchw>
+    <suchw>15033603</suchw>
   </kompmerkmal>
   <kompmerkmal id="62646">
     <komp-parent>57492</komp-parent>
@@ -23670,13 +23678,14 @@
     <komp-parent>57492</komp-parent>
     <bezeichnung>Supply-Chain-Management</bezeichnung>
     <kurs-codenr>C 1615-25-15</kurs-codenr>
-    <suchw>11449543</suchw>
-    <suchw>11449544</suchw>
-    <suchw>11449545</suchw>
-    <suchw>11449546</suchw>
-    <suchw>11449547</suchw>
-    <suchw>11449548</suchw>
-    <suchw>11449549</suchw>
+    <suchw>15033604</suchw>
+    <suchw>15033605</suchw>
+    <suchw>15033606</suchw>
+    <suchw>15033607</suchw>
+    <suchw>15033608</suchw>
+    <suchw>15033609</suchw>
+    <suchw>15033610</suchw>
+    <suchw>15033611</suchw>
   </kompmerkmal>
   <kompmerkmal id="62688">
     <komp-parent>57492</komp-parent>
@@ -28263,10 +28272,11 @@
     <komp-parent>57573</komp-parent>
     <bezeichnung>Paralleles Programmieren mit OpenMP</bezeichnung>
     <kurs-codenr>C 1435-10-45</kurs-codenr>
-    <suchw>11451602</suchw>
-    <suchw>11451603</suchw>
-    <suchw>11451604</suchw>
-    <suchw>11451605</suchw>
+    <suchw>14606884</suchw>
+    <suchw>14606885</suchw>
+    <suchw>14606886</suchw>
+    <suchw>14606887</suchw>
+    <suchw>14606888</suchw>
   </kompmerkmal>
   <kompmerkmal id="63214">
     <komp-parent>57570</komp-parent>
@@ -30230,12 +30240,13 @@
     <komp-parent>59998</komp-parent>
     <bezeichnung>GIS (Geo-Info-System)</bezeichnung>
     <kurs-codenr>C 2035</kurs-codenr>
-    <suchw>11453404</suchw>
-    <suchw>11453405</suchw>
-    <suchw>11453406</suchw>
-    <suchw>11453407</suchw>
-    <suchw>11453408</suchw>
-    <suchw>11453409</suchw>
+    <suchw>15033635</suchw>
+    <suchw>15033636</suchw>
+    <suchw>15033637</suchw>
+    <suchw>15033638</suchw>
+    <suchw>15033639</suchw>
+    <suchw>15033640</suchw>
+    <suchw>15033641</suchw>
   </kompmerkmal>
   <kompmerkmal id="63372">
     <komp-parent>59998</komp-parent>
@@ -31172,12 +31183,13 @@
     <komp-parent>60000</komp-parent>
     <bezeichnung>Online-Shop-Systeme</bezeichnung>
     <kurs-codenr>C 1420-35</kurs-codenr>
-    <suchw>14034721</suchw>
-    <suchw>14034722</suchw>
-    <suchw>14034723</suchw>
-    <suchw>14034724</suchw>
-    <suchw>14034725</suchw>
-    <suchw>14034726</suchw>
+    <suchw>15033642</suchw>
+    <suchw>15033643</suchw>
+    <suchw>15033644</suchw>
+    <suchw>15033645</suchw>
+    <suchw>15033646</suchw>
+    <suchw>15033647</suchw>
+    <suchw>15033648</suchw>
   </kompmerkmal>
   <kompmerkmal id="63431">
     <komp-parent>60000</komp-parent>
@@ -31341,10 +31353,9 @@
     <komp-parent>60001</komp-parent>
     <bezeichnung>Lagerverwaltungssysteme</bezeichnung>
     <kurs-codenr>C 1615-15</kurs-codenr>
-    <suchw>13842640</suchw>
-    <suchw>13842641</suchw>
-    <suchw>13842642</suchw>
-    <suchw>13842643</suchw>
+    <suchw>15033649</suchw>
+    <suchw>15033650</suchw>
+    <suchw>15033651</suchw>
   </kompmerkmal>
   <kompmerkmal id="63448">
     <komp-parent>60001</komp-parent>
@@ -31409,11 +31420,12 @@
     <komp-parent>60002</komp-parent>
     <bezeichnung>SPS-System B&amp;R</bezeichnung>
     <kurs-codenr>C 2435-10-15</kurs-codenr>
-    <suchw>11454674</suchw>
-    <suchw>11454675</suchw>
-    <suchw>11454676</suchw>
-    <suchw>11454677</suchw>
-    <suchw>11454678</suchw>
+    <suchw>15150839</suchw>
+    <suchw>15150840</suchw>
+    <suchw>15150841</suchw>
+    <suchw>15150842</suchw>
+    <suchw>15150843</suchw>
+    <suchw>15150844</suchw>
   </kompmerkmal>
   <kompmerkmal id="63456">
     <komp-parent>60002</komp-parent>
@@ -31797,12 +31809,12 @@
     <komp-parent>57572</komp-parent>
     <bezeichnung>Data Warehouse</bezeichnung>
     <kurs-codenr>C 1435-15-10</kurs-codenr>
-    <suchw>11454953</suchw>
-    <suchw>11454954</suchw>
-    <suchw>11454955</suchw>
-    <suchw>11454956</suchw>
-    <suchw>11454957</suchw>
-    <suchw>11454958</suchw>
+    <suchw>15033652</suchw>
+    <suchw>15033653</suchw>
+    <suchw>15033654</suchw>
+    <suchw>15033655</suchw>
+    <suchw>15033656</suchw>
+    <suchw>15033657</suchw>
   </kompmerkmal>
   <kompmerkmal id="63490">
     <komp-parent>57572</komp-parent>
@@ -32450,9 +32462,9 @@
     <komp-parent>57570</komp-parent>
     <bezeichnung>EDV-Anwender-Training</bezeichnung>
     <kurs-codenr/>
-    <suchw>11455561</suchw>
-    <suchw>11455562</suchw>
-    <suchw>11455563</suchw>
+    <suchw>14604517</suchw>
+    <suchw>14604518</suchw>
+    <suchw>14604519</suchw>
   </kompmerkmal>
   <kompmerkmal id="63538">
     <komp-parent>57573</komp-parent>
@@ -32624,9 +32636,9 @@
     <komp-parent>59985</komp-parent>
     <bezeichnung>Pflichtenhefterstellung</bezeichnung>
     <kurs-codenr>C 0235-15</kurs-codenr>
-    <suchw>11455660</suchw>
-    <suchw>11455661</suchw>
-    <suchw>11455662</suchw>
+    <suchw>14604514</suchw>
+    <suchw>14604515</suchw>
+    <suchw>14604516</suchw>
   </kompmerkmal>
   <kompmerkmal id="63553">
     <komp-parent>57573</komp-parent>
@@ -33270,59 +33282,46 @@
     <komp-parent>60005</komp-parent>
     <bezeichnung>SAP ERP</bezeichnung>
     <kurs-codenr/>
-    <suchw>13363885</suchw>
-    <suchw>13363886</suchw>
-    <suchw>13363887</suchw>
-    <suchw>13363888</suchw>
-    <suchw>13363889</suchw>
-    <suchw>13363890</suchw>
-    <suchw>13363891</suchw>
-    <suchw>13363892</suchw>
-    <suchw>13363893</suchw>
-    <suchw>13363894</suchw>
-    <suchw>13363895</suchw>
-    <suchw>13363896</suchw>
-    <suchw>13363897</suchw>
-    <suchw>13363898</suchw>
-    <suchw>13363899</suchw>
-    <suchw>13363900</suchw>
-    <suchw>13363901</suchw>
-    <suchw>13363902</suchw>
-    <suchw>13363903</suchw>
-    <suchw>13363904</suchw>
-    <suchw>13363905</suchw>
-    <suchw>13363906</suchw>
-    <suchw>13363907</suchw>
-    <suchw>13363908</suchw>
-    <suchw>13363909</suchw>
-    <suchw>13363910</suchw>
-    <suchw>13363911</suchw>
-    <suchw>13363912</suchw>
-    <suchw>13363913</suchw>
-    <suchw>13363914</suchw>
-    <suchw>13363915</suchw>
-    <suchw>13363916</suchw>
-    <suchw>13363917</suchw>
-    <suchw>13363918</suchw>
-    <suchw>13363919</suchw>
-    <suchw>13363920</suchw>
-    <suchw>13363921</suchw>
-    <suchw>13363922</suchw>
-    <suchw>13363923</suchw>
-    <suchw>13363924</suchw>
-    <suchw>13363925</suchw>
-    <suchw>13363926</suchw>
-    <suchw>13363927</suchw>
-    <suchw>13363928</suchw>
-    <suchw>13363929</suchw>
-    <suchw>13363930</suchw>
-    <suchw>13363931</suchw>
-    <suchw>13363932</suchw>
-    <suchw>13363933</suchw>
-    <suchw>13363934</suchw>
-    <suchw>13363935</suchw>
-    <suchw>13363936</suchw>
-    <suchw>13363937</suchw>
+    <suchw>14487938</suchw>
+    <suchw>14487939</suchw>
+    <suchw>14487940</suchw>
+    <suchw>14487941</suchw>
+    <suchw>14487942</suchw>
+    <suchw>14487943</suchw>
+    <suchw>14487944</suchw>
+    <suchw>14487945</suchw>
+    <suchw>14487946</suchw>
+    <suchw>14487947</suchw>
+    <suchw>14487948</suchw>
+    <suchw>14487949</suchw>
+    <suchw>14487950</suchw>
+    <suchw>14487951</suchw>
+    <suchw>14487952</suchw>
+    <suchw>14487953</suchw>
+    <suchw>14487954</suchw>
+    <suchw>14487955</suchw>
+    <suchw>14487956</suchw>
+    <suchw>14487957</suchw>
+    <suchw>14487958</suchw>
+    <suchw>14487959</suchw>
+    <suchw>14487960</suchw>
+    <suchw>14487961</suchw>
+    <suchw>14487962</suchw>
+    <suchw>14487963</suchw>
+    <suchw>14487964</suchw>
+    <suchw>14487965</suchw>
+    <suchw>14487966</suchw>
+    <suchw>14487967</suchw>
+    <suchw>14487968</suchw>
+    <suchw>14487969</suchw>
+    <suchw>14487970</suchw>
+    <suchw>14487971</suchw>
+    <suchw>14487972</suchw>
+    <suchw>14487973</suchw>
+    <suchw>14487974</suchw>
+    <suchw>14487975</suchw>
+    <suchw>14487976</suchw>
+    <suchw>14487977</suchw>
   </kompmerkmal>
   <kompmerkmal id="63603">
     <komp-parent>60005</komp-parent>
@@ -33524,22 +33523,22 @@
     <komp-parent>60005</komp-parent>
     <bezeichnung>Warenwirtschaftssysteme</bezeichnung>
     <kurs-codenr/>
-    <suchw>13507774</suchw>
-    <suchw>13507775</suchw>
-    <suchw>13507776</suchw>
-    <suchw>13507777</suchw>
-    <suchw>13507778</suchw>
-    <suchw>13507779</suchw>
-    <suchw>13507780</suchw>
-    <suchw>13507781</suchw>
-    <suchw>13507782</suchw>
-    <suchw>13507783</suchw>
-    <suchw>13507784</suchw>
-    <suchw>13507785</suchw>
-    <suchw>13507786</suchw>
-    <suchw>13507787</suchw>
-    <suchw>13507788</suchw>
-    <suchw>13507789</suchw>
+    <suchw>15033669</suchw>
+    <suchw>15033670</suchw>
+    <suchw>15033671</suchw>
+    <suchw>15033672</suchw>
+    <suchw>15033673</suchw>
+    <suchw>15033674</suchw>
+    <suchw>15033675</suchw>
+    <suchw>15033676</suchw>
+    <suchw>15033677</suchw>
+    <suchw>15033678</suchw>
+    <suchw>15033679</suchw>
+    <suchw>15033680</suchw>
+    <suchw>15033681</suchw>
+    <suchw>15033682</suchw>
+    <suchw>15033683</suchw>
+    <suchw>15033684</suchw>
   </kompmerkmal>
   <kompmerkmal id="63626">
     <komp-parent>60005</komp-parent>
@@ -33932,23 +33931,27 @@
     <komp-parent>60007</komp-parent>
     <bezeichnung>Krankenhausinformationssysteme</bezeichnung>
     <kurs-codenr>C 1020-40</kurs-codenr>
-    <suchw>11457091</suchw>
-    <suchw>11457092</suchw>
-    <suchw>11457093</suchw>
-    <suchw>11457094</suchw>
-    <suchw>11457095</suchw>
-    <suchw>11457096</suchw>
-    <suchw>11457097</suchw>
-    <suchw>11457098</suchw>
-    <suchw>11457099</suchw>
+    <suchw>15149977</suchw>
+    <suchw>15149978</suchw>
+    <suchw>15149979</suchw>
+    <suchw>15149980</suchw>
+    <suchw>15149981</suchw>
+    <suchw>15149982</suchw>
+    <suchw>15149983</suchw>
+    <suchw>15149984</suchw>
+    <suchw>15149985</suchw>
+    <suchw>15149986</suchw>
+    <suchw>15149987</suchw>
   </kompmerkmal>
   <kompmerkmal id="63657">
     <komp-parent>60007</komp-parent>
     <bezeichnung>Krankenkassensoftware IS KV</bezeichnung>
     <kurs-codenr>C 1020-25</kurs-codenr>
-    <suchw>11457100</suchw>
-    <suchw>11457101</suchw>
-    <suchw>11457102</suchw>
+    <suchw>14487586</suchw>
+    <suchw>14487587</suchw>
+    <suchw>14487588</suchw>
+    <suchw>14487589</suchw>
+    <suchw>14487590</suchw>
   </kompmerkmal>
   <kompmerkmal id="63658">
     <komp-parent>60007</komp-parent>
@@ -34273,19 +34276,31 @@
     <komp-parent>60010</komp-parent>
     <bezeichnung>SAP-Modul HR/HCM</bezeichnung>
     <kurs-codenr>C 1420-15-40</kurs-codenr>
-    <suchw>13178350</suchw>
-    <suchw>13178351</suchw>
-    <suchw>13178352</suchw>
-    <suchw>13178353</suchw>
-    <suchw>13178354</suchw>
-    <suchw>13178355</suchw>
-    <suchw>13178356</suchw>
-    <suchw>13178357</suchw>
-    <suchw>13178358</suchw>
-    <suchw>13178359</suchw>
-    <suchw>13178360</suchw>
-    <suchw>13178361</suchw>
-    <suchw>13178362</suchw>
+    <suchw>14487978</suchw>
+    <suchw>14487979</suchw>
+    <suchw>14487980</suchw>
+    <suchw>14487981</suchw>
+    <suchw>14487982</suchw>
+    <suchw>14487983</suchw>
+    <suchw>14487984</suchw>
+    <suchw>14487985</suchw>
+    <suchw>14487986</suchw>
+    <suchw>14487987</suchw>
+    <suchw>14487988</suchw>
+    <suchw>14487989</suchw>
+    <suchw>14487990</suchw>
+    <suchw>14487991</suchw>
+    <suchw>14487992</suchw>
+    <suchw>14487993</suchw>
+    <suchw>14487994</suchw>
+    <suchw>14487995</suchw>
+    <suchw>14487996</suchw>
+    <suchw>14487997</suchw>
+    <suchw>14487998</suchw>
+    <suchw>14487999</suchw>
+    <suchw>14488000</suchw>
+    <suchw>14488001</suchw>
+    <suchw>14488002</suchw>
   </kompmerkmal>
   <kompmerkmal id="63687">
     <komp-parent>60010</komp-parent>
@@ -36292,11 +36307,13 @@
     <komp-parent>57577</komp-parent>
     <bezeichnung>Firewallsysteme</bezeichnung>
     <kurs-codenr>C 1430-25-15</kurs-codenr>
-    <suchw>11459373</suchw>
-    <suchw>11459374</suchw>
-    <suchw>11459375</suchw>
-    <suchw>11459376</suchw>
-    <suchw>11459377</suchw>
+    <suchw>15033685</suchw>
+    <suchw>15033686</suchw>
+    <suchw>15033687</suchw>
+    <suchw>15033688</suchw>
+    <suchw>15033689</suchw>
+    <suchw>15033690</suchw>
+    <suchw>15033691</suchw>
   </kompmerkmal>
   <kompmerkmal id="63865">
     <komp-parent>57577</komp-parent>
@@ -36578,17 +36595,18 @@
     <komp-parent>57577</komp-parent>
     <bezeichnung>Netzwerktechnik WAN, GAN</bezeichnung>
     <kurs-codenr>C 1430-10-10</kurs-codenr>
-    <suchw>11459514</suchw>
-    <suchw>11459515</suchw>
-    <suchw>11459516</suchw>
-    <suchw>11459517</suchw>
-    <suchw>11459518</suchw>
-    <suchw>11459519</suchw>
-    <suchw>11459520</suchw>
-    <suchw>11459521</suchw>
-    <suchw>11459522</suchw>
-    <suchw>11459523</suchw>
-    <suchw>11459524</suchw>
+    <suchw>15033692</suchw>
+    <suchw>15033693</suchw>
+    <suchw>15033694</suchw>
+    <suchw>15033695</suchw>
+    <suchw>15033696</suchw>
+    <suchw>15033697</suchw>
+    <suchw>15033698</suchw>
+    <suchw>15033699</suchw>
+    <suchw>15033700</suchw>
+    <suchw>15033701</suchw>
+    <suchw>15033702</suchw>
+    <suchw>15033703</suchw>
   </kompmerkmal>
   <kompmerkmal id="63894">
     <komp-parent>57577</komp-parent>
@@ -40347,11 +40365,13 @@
     <komp-parent>59926</komp-parent>
     <bezeichnung>Dünnschichttechnik</bezeichnung>
     <kurs-codenr>C 0415-15</kurs-codenr>
-    <suchw>11461647</suchw>
-    <suchw>11461648</suchw>
-    <suchw>11461649</suchw>
-    <suchw>11461650</suchw>
-    <suchw>11461651</suchw>
+    <suchw>15303266</suchw>
+    <suchw>15303267</suchw>
+    <suchw>15303268</suchw>
+    <suchw>15303269</suchw>
+    <suchw>15303270</suchw>
+    <suchw>15303271</suchw>
+    <suchw>15303272</suchw>
   </kompmerkmal>
   <kompmerkmal id="64292">
     <komp-parent>59926</komp-parent>
@@ -40518,17 +40538,18 @@
     <komp-parent>60013</komp-parent>
     <bezeichnung>Heilpädagogik, Behindertenpädagogik</bezeichnung>
     <kurs-codenr/>
-    <suchw>11461724</suchw>
-    <suchw>11461725</suchw>
-    <suchw>11461726</suchw>
-    <suchw>11461727</suchw>
-    <suchw>11461728</suchw>
-    <suchw>11461729</suchw>
-    <suchw>11461730</suchw>
-    <suchw>11461731</suchw>
-    <suchw>11461732</suchw>
-    <suchw>11461733</suchw>
-    <suchw>11461734</suchw>
+    <suchw>14556462</suchw>
+    <suchw>14556463</suchw>
+    <suchw>14556464</suchw>
+    <suchw>14556465</suchw>
+    <suchw>14556466</suchw>
+    <suchw>14556467</suchw>
+    <suchw>14556468</suchw>
+    <suchw>14556469</suchw>
+    <suchw>14556470</suchw>
+    <suchw>14556471</suchw>
+    <suchw>14556472</suchw>
+    <suchw>14556473</suchw>
   </kompmerkmal>
   <kompmerkmal id="64309">
     <komp-parent>60013</komp-parent>
@@ -40578,9 +40599,10 @@
     <komp-parent>60013</komp-parent>
     <bezeichnung>Sonderpädagogik</bezeichnung>
     <kurs-codenr/>
-    <suchw>11461764</suchw>
-    <suchw>11461765</suchw>
-    <suchw>11461766</suchw>
+    <suchw>14556474</suchw>
+    <suchw>14556475</suchw>
+    <suchw>14556476</suchw>
+    <suchw>14556477</suchw>
   </kompmerkmal>
   <kompmerkmal id="64313">
     <komp-parent>60014</komp-parent>
@@ -40955,14 +40977,22 @@
     <komp-parent>60016</komp-parent>
     <bezeichnung>Allgemeiner sozialer Dienst</bezeichnung>
     <kurs-codenr>C 2630-15</kurs-codenr>
-    <suchw>11462045</suchw>
-    <suchw>11462046</suchw>
-    <suchw>11462047</suchw>
-    <suchw>11462048</suchw>
-    <suchw>11462049</suchw>
-    <suchw>11462050</suchw>
-    <suchw>11462051</suchw>
-    <suchw>11462052</suchw>
+    <suchw>14556698</suchw>
+    <suchw>14556699</suchw>
+    <suchw>14556700</suchw>
+    <suchw>14556701</suchw>
+    <suchw>14556702</suchw>
+    <suchw>14556703</suchw>
+    <suchw>14556704</suchw>
+    <suchw>14556705</suchw>
+    <suchw>14556706</suchw>
+    <suchw>14556707</suchw>
+    <suchw>14556708</suchw>
+    <suchw>14556709</suchw>
+    <suchw>14556710</suchw>
+    <suchw>14556711</suchw>
+    <suchw>14556712</suchw>
+    <suchw>14556713</suchw>
   </kompmerkmal>
   <kompmerkmal id="64344">
     <komp-parent>60016</komp-parent>
@@ -41604,19 +41634,20 @@
     <komp-parent>60017</komp-parent>
     <bezeichnung>E-Learning, Teleteaching</bezeichnung>
     <kurs-codenr>C 2620-20</kurs-codenr>
-    <suchw>13348952</suchw>
-    <suchw>13348953</suchw>
-    <suchw>13348954</suchw>
-    <suchw>13348955</suchw>
-    <suchw>13348956</suchw>
-    <suchw>13348957</suchw>
-    <suchw>13348958</suchw>
-    <suchw>13348959</suchw>
-    <suchw>13348960</suchw>
-    <suchw>13348961</suchw>
-    <suchw>13348962</suchw>
-    <suchw>13348963</suchw>
-    <suchw>13348964</suchw>
+    <suchw>15033708</suchw>
+    <suchw>15033709</suchw>
+    <suchw>15033710</suchw>
+    <suchw>15033711</suchw>
+    <suchw>15033712</suchw>
+    <suchw>15033713</suchw>
+    <suchw>15033714</suchw>
+    <suchw>15033715</suchw>
+    <suchw>15033716</suchw>
+    <suchw>15033717</suchw>
+    <suchw>15033718</suchw>
+    <suchw>15033719</suchw>
+    <suchw>15033720</suchw>
+    <suchw>15033721</suchw>
   </kompmerkmal>
   <kompmerkmal id="64395">
     <komp-parent>60017</komp-parent>
@@ -44633,12 +44664,13 @@
     <komp-parent>60023</komp-parent>
     <bezeichnung>Geburtsvorbereitung, Geburtsnachbereitung</bezeichnung>
     <kurs-codenr>C 1025-40</kurs-codenr>
-    <suchw>11464550</suchw>
-    <suchw>11464551</suchw>
-    <suchw>11464552</suchw>
-    <suchw>11464553</suchw>
-    <suchw>11464554</suchw>
-    <suchw>11464555</suchw>
+    <suchw>15303273</suchw>
+    <suchw>15303274</suchw>
+    <suchw>15303275</suchw>
+    <suchw>15303276</suchw>
+    <suchw>15303277</suchw>
+    <suchw>15303278</suchw>
+    <suchw>15303279</suchw>
   </kompmerkmal>
   <kompmerkmal id="64640">
     <komp-parent>60023</komp-parent>
@@ -49383,13 +49415,14 @@
     <komp-parent>60035</komp-parent>
     <bezeichnung>B-Lizenz (Sport)</bezeichnung>
     <kurs-codenr>C 1050-10</kurs-codenr>
-    <suchw>11467579</suchw>
-    <suchw>11467580</suchw>
-    <suchw>11467581</suchw>
-    <suchw>11467582</suchw>
-    <suchw>11467583</suchw>
-    <suchw>11467584</suchw>
-    <suchw>11467585</suchw>
+    <suchw>14900907</suchw>
+    <suchw>14900908</suchw>
+    <suchw>14900909</suchw>
+    <suchw>14900910</suchw>
+    <suchw>14900911</suchw>
+    <suchw>14900912</suchw>
+    <suchw>14900913</suchw>
+    <suchw>14900914</suchw>
   </kompmerkmal>
   <kompmerkmal id="65041">
     <komp-parent>60035</komp-parent>
@@ -52927,14 +52960,16 @@
     <komp-parent>57570</komp-parent>
     <bezeichnung>Dokumentenmanagementsysteme einsetzen</bezeichnung>
     <kurs-codenr>C 2220-15</kurs-codenr>
-    <suchw>11451693</suchw>
-    <suchw>11451694</suchw>
-    <suchw>11451695</suchw>
-    <suchw>11451696</suchw>
-    <suchw>11451697</suchw>
-    <suchw>11451698</suchw>
-    <suchw>11451699</suchw>
-    <suchw>11451700</suchw>
+    <suchw>15033614</suchw>
+    <suchw>15033615</suchw>
+    <suchw>15033616</suchw>
+    <suchw>15033617</suchw>
+    <suchw>15033618</suchw>
+    <suchw>15033619</suchw>
+    <suchw>15033620</suchw>
+    <suchw>15033621</suchw>
+    <suchw>15033622</suchw>
+    <suchw>15033623</suchw>
   </kompmerkmal>
   <kompmerkmal id="65352">
     <komp-parent>60046</komp-parent>
@@ -55495,9 +55530,15 @@
     <komp-parent>60052</komp-parent>
     <bezeichnung>Patisserie, Süßspeisen</bezeichnung>
     <kurs-codenr>C 0225-20</kurs-codenr>
-    <suchw>11503626</suchw>
-    <suchw>11503627</suchw>
-    <suchw>11503628</suchw>
+    <suchw>15300456</suchw>
+    <suchw>15300457</suchw>
+    <suchw>15300458</suchw>
+    <suchw>15300459</suchw>
+    <suchw>15300460</suchw>
+    <suchw>15300461</suchw>
+    <suchw>15300462</suchw>
+    <suchw>15300463</suchw>
+    <suchw>15300464</suchw>
   </kompmerkmal>
   <kompmerkmal id="65582">
     <komp-parent>60052</komp-parent>
@@ -55905,10 +55946,11 @@
     <komp-parent>60057</komp-parent>
     <bezeichnung>Futtermittel</bezeichnung>
     <kurs-codenr>C 0225-20</kurs-codenr>
-    <suchw>11503812</suchw>
-    <suchw>11503813</suchw>
-    <suchw>11503814</suchw>
-    <suchw>11503815</suchw>
+    <suchw>14901769</suchw>
+    <suchw>14901770</suchw>
+    <suchw>14901771</suchw>
+    <suchw>14901772</suchw>
+    <suchw>14901773</suchw>
   </kompmerkmal>
   <kompmerkmal id="65629">
     <komp-parent>60057</komp-parent>
@@ -56694,9 +56736,10 @@
     <komp-parent>60065</komp-parent>
     <bezeichnung>Lüftungsanlagen</bezeichnung>
     <kurs-codenr>C 2420-30</kurs-codenr>
-    <suchw>11504200</suchw>
-    <suchw>11504201</suchw>
-    <suchw>11504202</suchw>
+    <suchw>15112140</suchw>
+    <suchw>15112141</suchw>
+    <suchw>15112142</suchw>
+    <suchw>15112143</suchw>
   </kompmerkmal>
   <kompmerkmal id="65718">
     <komp-parent>60065</komp-parent>
@@ -57998,7 +58041,8 @@
     <komp-parent>60077</komp-parent>
     <bezeichnung>Hochregallager</bezeichnung>
     <kurs-codenr>C 0225-20</kurs-codenr>
-    <suchw>11504769</suchw>
+    <suchw>15033729</suchw>
+    <suchw>15033730</suchw>
   </kompmerkmal>
   <kompmerkmal id="65888">
     <komp-parent>60077</komp-parent>
@@ -58056,9 +58100,11 @@
     <komp-parent>60077</komp-parent>
     <bezeichnung>Materialfluss-Systeme</bezeichnung>
     <kurs-codenr>C 0225-20</kurs-codenr>
-    <suchw>11504792</suchw>
-    <suchw>11504793</suchw>
-    <suchw>11504794</suchw>
+    <suchw>15033731</suchw>
+    <suchw>15033732</suchw>
+    <suchw>15033733</suchw>
+    <suchw>15033734</suchw>
+    <suchw>15033735</suchw>
   </kompmerkmal>
   <kompmerkmal id="65895">
     <komp-parent>60077</komp-parent>
@@ -58414,16 +58460,16 @@
     <komp-parent>60079</komp-parent>
     <bezeichnung>Embedded Microcontroller, Embedded Systems</bezeichnung>
     <kurs-codenr>C 0420</kurs-codenr>
-    <suchw>11505015</suchw>
-    <suchw>11505016</suchw>
-    <suchw>11505017</suchw>
-    <suchw>11505018</suchw>
-    <suchw>11505019</suchw>
-    <suchw>11505020</suchw>
-    <suchw>11505021</suchw>
-    <suchw>11505022</suchw>
-    <suchw>11505023</suchw>
-    <suchw>11505024</suchw>
+    <suchw>15033736</suchw>
+    <suchw>15033737</suchw>
+    <suchw>15033738</suchw>
+    <suchw>15033739</suchw>
+    <suchw>15033740</suchw>
+    <suchw>15033741</suchw>
+    <suchw>15033742</suchw>
+    <suchw>15033743</suchw>
+    <suchw>15033744</suchw>
+    <suchw>15033745</suchw>
   </kompmerkmal>
   <kompmerkmal id="65936">
     <komp-parent>60079</komp-parent>
@@ -58677,13 +58723,12 @@
     <komp-parent>57577</komp-parent>
     <bezeichnung>Samba (Unix Server für Microsoft Clients)</bezeichnung>
     <kurs-codenr>C 1430-10-20</kurs-codenr>
-    <suchw>11505162</suchw>
-    <suchw>11505163</suchw>
-    <suchw>11505164</suchw>
-    <suchw>11505165</suchw>
-    <suchw>11505166</suchw>
-    <suchw>11505167</suchw>
-    <suchw>11505168</suchw>
+    <suchw>14606894</suchw>
+    <suchw>14606895</suchw>
+    <suchw>14606896</suchw>
+    <suchw>14606897</suchw>
+    <suchw>14606898</suchw>
+    <suchw>14606899</suchw>
   </kompmerkmal>
   <kompmerkmal id="65962">
     <komp-parent>60080</komp-parent>
@@ -58732,13 +58777,12 @@
     <komp-parent>60000</komp-parent>
     <bezeichnung>Webserver Apache</bezeichnung>
     <kurs-codenr/>
-    <suchw>11505192</suchw>
-    <suchw>11505193</suchw>
-    <suchw>11505194</suchw>
-    <suchw>11505195</suchw>
-    <suchw>11505196</suchw>
-    <suchw>11505197</suchw>
-    <suchw>11505198</suchw>
+    <suchw>14606878</suchw>
+    <suchw>14606879</suchw>
+    <suchw>14606880</suchw>
+    <suchw>14606881</suchw>
+    <suchw>14606882</suchw>
+    <suchw>14606883</suchw>
   </kompmerkmal>
   <kompmerkmal id="65967">
     <komp-parent>60081</komp-parent>
@@ -60046,16 +60090,15 @@
     <suchw>11505928</suchw>
   </kompmerkmal>
   <kompmerkmal id="66101">
-    <komp-parent>60094</komp-parent>
+    <komp-parent>57461</komp-parent>
     <bezeichnung>Bauspargeschäft</bezeichnung>
     <kurs-codenr/>
-    <suchw>11446810</suchw>
-    <suchw>11446811</suchw>
-    <suchw>11446812</suchw>
-    <suchw>11446813</suchw>
-    <suchw>11446814</suchw>
-    <suchw>11446815</suchw>
-    <suchw>11446816</suchw>
+    <suchw>14606868</suchw>
+    <suchw>14606869</suchw>
+    <suchw>14606870</suchw>
+    <suchw>14606871</suchw>
+    <suchw>14606872</suchw>
+    <suchw>14606873</suchw>
   </kompmerkmal>
   <kompmerkmal id="66102">
     <komp-parent>60094</komp-parent>
@@ -60112,10 +60155,12 @@
     <komp-parent>60094</komp-parent>
     <bezeichnung>Private Altersvorsorge</bezeichnung>
     <kurs-codenr>C 0225-20</kurs-codenr>
-    <suchw>11505957</suchw>
-    <suchw>11505958</suchw>
-    <suchw>11505959</suchw>
-    <suchw>11505960</suchw>
+    <suchw>15033858</suchw>
+    <suchw>15033859</suchw>
+    <suchw>15033860</suchw>
+    <suchw>15033861</suchw>
+    <suchw>15033862</suchw>
+    <suchw>15033863</suchw>
   </kompmerkmal>
   <kompmerkmal id="66108">
     <komp-parent>60094</komp-parent>
@@ -66354,8 +66399,10 @@
     <komp-parent>59999</komp-parent>
     <bezeichnung>Videobearbeitungs-Software Pinnacle Studio</bezeichnung>
     <kurs-codenr>C 2250-35</kurs-codenr>
-    <suchw>11453437</suchw>
-    <suchw>11453438</suchw>
+    <suchw>14606874</suchw>
+    <suchw>14606875</suchw>
+    <suchw>14606876</suchw>
+    <suchw>14606877</suchw>
   </kompmerkmal>
   <kompmerkmal id="69788">
     <komp-parent>59925</komp-parent>
@@ -68128,34 +68175,34 @@
     <komp-parent>57570</komp-parent>
     <bezeichnung>IT-Service-Management nach ITIL</bezeichnung>
     <kurs-codenr>C 1440-15</kurs-codenr>
-    <suchw>14107282</suchw>
-    <suchw>14107283</suchw>
-    <suchw>14107284</suchw>
-    <suchw>14107285</suchw>
-    <suchw>14107286</suchw>
-    <suchw>14107287</suchw>
-    <suchw>14107288</suchw>
-    <suchw>14107289</suchw>
-    <suchw>14107290</suchw>
-    <suchw>14107291</suchw>
-    <suchw>14107292</suchw>
-    <suchw>14107293</suchw>
-    <suchw>14107294</suchw>
-    <suchw>14107295</suchw>
-    <suchw>14107296</suchw>
-    <suchw>14107297</suchw>
-    <suchw>14107298</suchw>
-    <suchw>14107299</suchw>
-    <suchw>14107300</suchw>
-    <suchw>14107301</suchw>
-    <suchw>14107302</suchw>
-    <suchw>14107303</suchw>
-    <suchw>14107304</suchw>
-    <suchw>14107305</suchw>
-    <suchw>14107306</suchw>
-    <suchw>14107307</suchw>
-    <suchw>14107308</suchw>
-    <suchw>14107309</suchw>
+    <suchw>14898173</suchw>
+    <suchw>14898174</suchw>
+    <suchw>14898175</suchw>
+    <suchw>14898176</suchw>
+    <suchw>14898177</suchw>
+    <suchw>14898178</suchw>
+    <suchw>14898179</suchw>
+    <suchw>14898180</suchw>
+    <suchw>14898181</suchw>
+    <suchw>14898182</suchw>
+    <suchw>14898183</suchw>
+    <suchw>14898184</suchw>
+    <suchw>14898185</suchw>
+    <suchw>14898186</suchw>
+    <suchw>14898187</suchw>
+    <suchw>14898188</suchw>
+    <suchw>14898189</suchw>
+    <suchw>14898190</suchw>
+    <suchw>14898191</suchw>
+    <suchw>14898192</suchw>
+    <suchw>14898193</suchw>
+    <suchw>14898194</suchw>
+    <suchw>14898195</suchw>
+    <suchw>14898196</suchw>
+    <suchw>14898197</suchw>
+    <suchw>14898198</suchw>
+    <suchw>14898199</suchw>
+    <suchw>14898200</suchw>
   </kompmerkmal>
   <kompmerkmal id="73712">
     <komp-parent>57572</komp-parent>
@@ -70605,12 +70652,11 @@
     <komp-parent>60008</komp-parent>
     <bezeichnung>Immobilienmanagement-Software ARGO</bezeichnung>
     <kurs-codenr>C 0220-20-10</kurs-codenr>
-    <suchw>11456603</suchw>
-    <suchw>11456604</suchw>
-    <suchw>11456605</suchw>
-    <suchw>11456606</suchw>
-    <suchw>11456607</suchw>
-    <suchw>11456608</suchw>
+    <suchw>14606889</suchw>
+    <suchw>14606890</suchw>
+    <suchw>14606891</suchw>
+    <suchw>14606892</suchw>
+    <suchw>14606893</suchw>
   </kompmerkmal>
   <kompmerkmal id="76849">
     <komp-parent>60000</komp-parent>
@@ -71287,9 +71333,9 @@
     <komp-parent>59970</komp-parent>
     <bezeichnung>Photonik</bezeichnung>
     <kurs-codenr/>
-    <suchw>11443947</suchw>
-    <suchw>11443948</suchw>
-    <suchw>11443949</suchw>
+    <suchw>15033546</suchw>
+    <suchw>15033547</suchw>
+    <suchw>15033548</suchw>
   </kompmerkmal>
   <kompmerkmal id="77079">
     <komp-parent>57575</komp-parent>
@@ -71479,17 +71525,19 @@
   </kompmerkmal>
   <kompmerkmal id="77157">
     <komp-parent>60000</komp-parent>
-    <bezeichnung>Web-Content-Management-System (CMS) TYPOlight</bezeichnung>
+    <bezeichnung>Web-Content-Management-System (CMS) Contao</bezeichnung>
     <kurs-codenr>C 1435-10-40</kurs-codenr>
-    <suchw>11454397</suchw>
-    <suchw>11454398</suchw>
-    <suchw>11454399</suchw>
-    <suchw>11454400</suchw>
-    <suchw>11454401</suchw>
-    <suchw>11454402</suchw>
-    <suchw>11454403</suchw>
-    <suchw>11454404</suchw>
-    <suchw>11454405</suchw>
+    <suchw>14512285</suchw>
+    <suchw>14512286</suchw>
+    <suchw>14512287</suchw>
+    <suchw>14512288</suchw>
+    <suchw>14512289</suchw>
+    <suchw>14512290</suchw>
+    <suchw>14512291</suchw>
+    <suchw>14512292</suchw>
+    <suchw>14512293</suchw>
+    <suchw>14512294</suchw>
+    <suchw>14512295</suchw>
   </kompmerkmal>
   <kompmerkmal id="77158">
     <komp-parent>60008</komp-parent>
@@ -76409,23 +76457,24 @@
     <komp-parent>59981</komp-parent>
     <bezeichnung>Social-Media-Kommunikation</bezeichnung>
     <kurs-codenr>C 0240-40</kurs-codenr>
-    <suchw>11447473</suchw>
-    <suchw>11447474</suchw>
-    <suchw>11447475</suchw>
-    <suchw>11447476</suchw>
-    <suchw>11447477</suchw>
-    <suchw>11447478</suchw>
-    <suchw>11447479</suchw>
-    <suchw>11447480</suchw>
-    <suchw>11447481</suchw>
-    <suchw>11447482</suchw>
-    <suchw>11447483</suchw>
-    <suchw>11447484</suchw>
-    <suchw>11447485</suchw>
-    <suchw>11447486</suchw>
-    <suchw>11447487</suchw>
-    <suchw>11447488</suchw>
-    <suchw>11447489</suchw>
+    <suchw>14488018</suchw>
+    <suchw>14488019</suchw>
+    <suchw>14488020</suchw>
+    <suchw>14488021</suchw>
+    <suchw>14488022</suchw>
+    <suchw>14488023</suchw>
+    <suchw>14488024</suchw>
+    <suchw>14488025</suchw>
+    <suchw>14488026</suchw>
+    <suchw>14488027</suchw>
+    <suchw>14488028</suchw>
+    <suchw>14488029</suchw>
+    <suchw>14488030</suchw>
+    <suchw>14488031</suchw>
+    <suchw>14488032</suchw>
+    <suchw>14488033</suchw>
+    <suchw>14488034</suchw>
+    <suchw>14488035</suchw>
   </kompmerkmal>
   <kompmerkmal id="90170">
     <komp-parent>59979</komp-parent>
@@ -76453,16 +76502,17 @@
     <komp-parent>59995</komp-parent>
     <bezeichnung>CAD-Anwendung AutoCAD MEP</bezeichnung>
     <kurs-codenr>C 0630</kurs-codenr>
-    <suchw>11452528</suchw>
-    <suchw>11452529</suchw>
-    <suchw>11452530</suchw>
-    <suchw>11452531</suchw>
-    <suchw>11452532</suchw>
-    <suchw>11452533</suchw>
-    <suchw>11452534</suchw>
-    <suchw>11452535</suchw>
-    <suchw>11452536</suchw>
-    <suchw>11452537</suchw>
+    <suchw>15150876</suchw>
+    <suchw>15150877</suchw>
+    <suchw>15150878</suchw>
+    <suchw>15150879</suchw>
+    <suchw>15150880</suchw>
+    <suchw>15150881</suchw>
+    <suchw>15150882</suchw>
+    <suchw>15150883</suchw>
+    <suchw>15150884</suchw>
+    <suchw>15150885</suchw>
+    <suchw>15150886</suchw>
   </kompmerkmal>
   <kompmerkmal id="90173">
     <komp-parent>59965</komp-parent>
@@ -77027,11 +77077,13 @@
     <komp-parent>60001</komp-parent>
     <bezeichnung>Diagnosesoftware DiagRA</bezeichnung>
     <kurs-codenr>C 1435-20</kurs-codenr>
-    <suchw>11454563</suchw>
-    <suchw>11454564</suchw>
-    <suchw>11454565</suchw>
-    <suchw>11454566</suchw>
-    <suchw>11454567</suchw>
+    <suchw>15111628</suchw>
+    <suchw>15111629</suchw>
+    <suchw>15111630</suchw>
+    <suchw>15111631</suchw>
+    <suchw>15111632</suchw>
+    <suchw>15111633</suchw>
+    <suchw>15111634</suchw>
   </kompmerkmal>
   <kompmerkmal id="93290">
     <komp-parent>59967</komp-parent>
@@ -77518,14 +77570,14 @@
     <komp-parent>57570</komp-parent>
     <bezeichnung>Cloud Computing</bezeichnung>
     <kurs-codenr/>
-    <suchw>13993764</suchw>
-    <suchw>13993765</suchw>
-    <suchw>13993766</suchw>
-    <suchw>13993767</suchw>
-    <suchw>13993768</suchw>
-    <suchw>13993769</suchw>
-    <suchw>13993770</suchw>
-    <suchw>13993771</suchw>
+    <suchw>15033624</suchw>
+    <suchw>15033625</suchw>
+    <suchw>15033626</suchw>
+    <suchw>15033627</suchw>
+    <suchw>15033628</suchw>
+    <suchw>15033629</suchw>
+    <suchw>15033630</suchw>
+    <suchw>15033631</suchw>
   </kompmerkmal>
   <kompmerkmal id="100628">
     <komp-parent>57382</komp-parent>
@@ -77705,14 +77757,14 @@
     <komp-parent>57572</komp-parent>
     <bezeichnung>Content-Management-System (CMS) Alfresco</bezeichnung>
     <kurs-codenr>C 1415-45</kurs-codenr>
-    <suchw>11455418</suchw>
-    <suchw>11455419</suchw>
-    <suchw>11455420</suchw>
-    <suchw>11455421</suchw>
-    <suchw>11455422</suchw>
-    <suchw>11455423</suchw>
-    <suchw>11455424</suchw>
-    <suchw>11455425</suchw>
+    <suchw>14898201</suchw>
+    <suchw>14898202</suchw>
+    <suchw>14898203</suchw>
+    <suchw>14898204</suchw>
+    <suchw>14898205</suchw>
+    <suchw>14898206</suchw>
+    <suchw>14898207</suchw>
+    <suchw>14898208</suchw>
   </kompmerkmal>
   <kompmerkmal id="100753">
     <komp-parent>60005</komp-parent>
@@ -77950,10 +78002,10 @@
     <komp-parent>59981</komp-parent>
     <bezeichnung>Suchmaschinenoptimierung (SEO)</bezeichnung>
     <kurs-codenr>C 1410-20-15</kurs-codenr>
-    <suchw>11447495</suchw>
-    <suchw>11447496</suchw>
-    <suchw>11447497</suchw>
-    <suchw>11447498</suchw>
+    <suchw>15033565</suchw>
+    <suchw>15033566</suchw>
+    <suchw>15033567</suchw>
+    <suchw>15033568</suchw>
   </kompmerkmal>
   <kompmerkmal id="119413">
     <komp-parent>60059</komp-parent>
@@ -78229,12 +78281,12 @@
     <komp-parent>59981</komp-parent>
     <bezeichnung>Angebotsmanagement</bezeichnung>
     <kurs-codenr>C 0240-25-10</kurs-codenr>
-    <suchw>11812980</suchw>
-    <suchw>11812981</suchw>
-    <suchw>11812982</suchw>
-    <suchw>11812983</suchw>
-    <suchw>11812984</suchw>
-    <suchw>11812985</suchw>
+    <suchw>14898167</suchw>
+    <suchw>14898168</suchw>
+    <suchw>14898169</suchw>
+    <suchw>14898170</suchw>
+    <suchw>14898171</suchw>
+    <suchw>14898172</suchw>
   </kompmerkmal>
   <kompmerkmal id="119555">
     <komp-parent>60034</komp-parent>
@@ -78518,14 +78570,15 @@
     <komp-parent>60075</komp-parent>
     <bezeichnung>Elektro- und Hybridfahrzeuge</bezeichnung>
     <kurs-codenr>C 2440-10-20</kurs-codenr>
-    <suchw>13545165</suchw>
-    <suchw>13545166</suchw>
-    <suchw>13545167</suchw>
-    <suchw>13545168</suchw>
-    <suchw>13545169</suchw>
-    <suchw>13545170</suchw>
-    <suchw>13545171</suchw>
-    <suchw>13545172</suchw>
+    <suchw>14487528</suchw>
+    <suchw>14487529</suchw>
+    <suchw>14487530</suchw>
+    <suchw>14487531</suchw>
+    <suchw>14487532</suchw>
+    <suchw>14487533</suchw>
+    <suchw>14487534</suchw>
+    <suchw>14487535</suchw>
+    <suchw>14487536</suchw>
   </kompmerkmal>
   <kompmerkmal id="120009">
     <komp-parent>59998</komp-parent>
@@ -78628,11 +78681,11 @@
     <komp-parent>59893</komp-parent>
     <bezeichnung>Herdenmanagement</bezeichnung>
     <kurs-codenr>C 1815</kurs-codenr>
-    <suchw>11438415</suchw>
-    <suchw>11438416</suchw>
-    <suchw>11438417</suchw>
-    <suchw>11438418</suchw>
-    <suchw>11438419</suchw>
+    <suchw>14898162</suchw>
+    <suchw>14898163</suchw>
+    <suchw>14898164</suchw>
+    <suchw>14898165</suchw>
+    <suchw>14898166</suchw>
   </kompmerkmal>
   <kompmerkmal id="120070">
     <komp-parent>59965</komp-parent>
@@ -78734,12 +78787,13 @@
     <komp-parent>57573</komp-parent>
     <bezeichnung>Augmented Reality</bezeichnung>
     <kurs-codenr>C 1435-10-10</kurs-codenr>
-    <suchw>11455865</suchw>
-    <suchw>11455866</suchw>
-    <suchw>11455867</suchw>
-    <suchw>11455868</suchw>
-    <suchw>11455869</suchw>
-    <suchw>11455870</suchw>
+    <suchw>15033658</suchw>
+    <suchw>15033659</suchw>
+    <suchw>15033660</suchw>
+    <suchw>15033661</suchw>
+    <suchw>15033662</suchw>
+    <suchw>15033663</suchw>
+    <suchw>15033664</suchw>
   </kompmerkmal>
   <kompmerkmal id="122255">
     <komp-parent>57573</komp-parent>
@@ -79524,10 +79578,11 @@
     <komp-parent>59926</komp-parent>
     <bezeichnung>3D-Drucken</bezeichnung>
     <kurs-codenr>C 2255-15</kurs-codenr>
-    <suchw>13134448</suchw>
-    <suchw>13134449</suchw>
-    <suchw>13134450</suchw>
-    <suchw>13134451</suchw>
+    <suchw>15034345</suchw>
+    <suchw>15034346</suchw>
+    <suchw>15034347</suchw>
+    <suchw>15034348</suchw>
+    <suchw>15034349</suchw>
   </kompmerkmal>
   <kompmerkmal id="125570">
     <komp-parent>60002</komp-parent>
@@ -80337,8 +80392,8 @@
     <komp-parent>59921</komp-parent>
     <bezeichnung>Smart Grid-Technologie</bezeichnung>
     <kurs-codenr>C 0425-10</kurs-codenr>
-    <suchw>11451475</suchw>
-    <suchw>11451476</suchw>
+    <suchw>15033612</suchw>
+    <suchw>15033613</suchw>
   </kompmerkmal>
   <kompmerkmal id="128440">
     <komp-parent>60001</komp-parent>
@@ -80453,10 +80508,11 @@
     <komp-parent>59967</komp-parent>
     <bezeichnung>Smart Home</bezeichnung>
     <kurs-codenr>C 2435-10-15</kurs-codenr>
-    <suchw>11814232</suchw>
-    <suchw>11814233</suchw>
-    <suchw>11814234</suchw>
-    <suchw>11814235</suchw>
+    <suchw>15033539</suchw>
+    <suchw>15033540</suchw>
+    <suchw>15033541</suchw>
+    <suchw>15033542</suchw>
+    <suchw>15033543</suchw>
   </kompmerkmal>
   <kompmerkmal id="129266">
     <komp-parent>59916</komp-parent>
@@ -80791,7 +80847,7 @@
     <komp-parent>60021</komp-parent>
     <bezeichnung>Telemedizin</bezeichnung>
     <kurs-codenr>C 1020-10</kurs-codenr>
-    <suchw>13353359</suchw>
+    <suchw>15033722</suchw>
   </kompmerkmal>
   <kompmerkmal id="130042">
     <komp-parent>60058</komp-parent>
@@ -81127,10 +81183,10 @@
     <komp-parent>59984</komp-parent>
     <bezeichnung>Elektronische Akte (E-Akte)</bezeichnung>
     <kurs-codenr>C 0210-10</kurs-codenr>
-    <suchw>13531107</suchw>
-    <suchw>13531108</suchw>
-    <suchw>13531109</suchw>
-    <suchw>13531110</suchw>
+    <suchw>15033569</suchw>
+    <suchw>15033570</suchw>
+    <suchw>15033571</suchw>
+    <suchw>15033572</suchw>
   </kompmerkmal>
   <kompmerkmal id="130260">
     <komp-parent>59996</komp-parent>
@@ -81252,26 +81308,26 @@
     <komp-parent>59985</komp-parent>
     <bezeichnung>Agiles Projektmanagement</bezeichnung>
     <kurs-codenr>C 1440-10</kurs-codenr>
-    <suchw>13838612</suchw>
-    <suchw>13838613</suchw>
-    <suchw>13838614</suchw>
-    <suchw>13838615</suchw>
-    <suchw>13838616</suchw>
-    <suchw>13838617</suchw>
-    <suchw>13838618</suchw>
-    <suchw>13838619</suchw>
-    <suchw>13838620</suchw>
-    <suchw>13838621</suchw>
-    <suchw>13838622</suchw>
-    <suchw>13838623</suchw>
-    <suchw>13838624</suchw>
-    <suchw>13838625</suchw>
-    <suchw>13838626</suchw>
-    <suchw>13838627</suchw>
-    <suchw>13838628</suchw>
-    <suchw>13838629</suchw>
-    <suchw>13838630</suchw>
-    <suchw>13838631</suchw>
+    <suchw>15033579</suchw>
+    <suchw>15033580</suchw>
+    <suchw>15033581</suchw>
+    <suchw>15033582</suchw>
+    <suchw>15033583</suchw>
+    <suchw>15033584</suchw>
+    <suchw>15033585</suchw>
+    <suchw>15033586</suchw>
+    <suchw>15033587</suchw>
+    <suchw>15033588</suchw>
+    <suchw>15033589</suchw>
+    <suchw>15033590</suchw>
+    <suchw>15033591</suchw>
+    <suchw>15033592</suchw>
+    <suchw>15033593</suchw>
+    <suchw>15033594</suchw>
+    <suchw>15033595</suchw>
+    <suchw>15033596</suchw>
+    <suchw>15033597</suchw>
+    <suchw>15033598</suchw>
   </kompmerkmal>
   <kompmerkmal id="130754">
     <komp-parent>59995</komp-parent>
@@ -81447,10 +81503,12 @@
     <komp-parent>60021</komp-parent>
     <bezeichnung>Pflegedokumentation</bezeichnung>
     <kurs-codenr>C 1025-50</kurs-codenr>
-    <suchw>13850158</suchw>
-    <suchw>13850159</suchw>
-    <suchw>13850160</suchw>
-    <suchw>13850161</suchw>
+    <suchw>15033723</suchw>
+    <suchw>15033724</suchw>
+    <suchw>15033725</suchw>
+    <suchw>15033726</suchw>
+    <suchw>15033727</suchw>
+    <suchw>15033728</suchw>
   </kompmerkmal>
   <kompmerkmal id="130806">
     <komp-parent>60027</komp-parent>
@@ -81666,10 +81724,11 @@
     <komp-parent>57573</komp-parent>
     <bezeichnung>Machine Learning</bezeichnung>
     <kurs-codenr>C 1435-10-10</kurs-codenr>
-    <suchw>14464553</suchw>
-    <suchw>14464554</suchw>
-    <suchw>14464555</suchw>
-    <suchw>14464556</suchw>
+    <suchw>15150898</suchw>
+    <suchw>15150899</suchw>
+    <suchw>15150900</suchw>
+    <suchw>15150901</suchw>
+    <suchw>15150902</suchw>
   </kompmerkmal>
   <kompmerkmal id="130932">
     <komp-parent>59990</komp-parent>
@@ -81729,9 +81788,10 @@
     <komp-parent>57434</komp-parent>
     <bezeichnung>Fahrerassistenzsysteme</bezeichnung>
     <kurs-codenr>C 2440-10-20</kurs-codenr>
-    <suchw>14034510</suchw>
-    <suchw>14034511</suchw>
-    <suchw>14034512</suchw>
+    <suchw>15033511</suchw>
+    <suchw>15033512</suchw>
+    <suchw>15033513</suchw>
+    <suchw>15033514</suchw>
   </kompmerkmal>
   <kompmerkmal id="130974">
     <komp-parent>57434</komp-parent>
@@ -81848,9 +81908,9 @@
     <komp-parent>59907</komp-parent>
     <bezeichnung>Building Information Modeling (BIM)</bezeichnung>
     <kurs-codenr>C 0010-10</kurs-codenr>
-    <suchw>14035031</suchw>
-    <suchw>14035032</suchw>
-    <suchw>14035033</suchw>
+    <suchw>15033549</suchw>
+    <suchw>15033550</suchw>
+    <suchw>15033551</suchw>
   </kompmerkmal>
   <kompmerkmal id="130993">
     <komp-parent>59983</komp-parent>
@@ -81975,9 +82035,9 @@
     <komp-parent>57570</komp-parent>
     <bezeichnung>Business Intelligence</bezeichnung>
     <kurs-codenr>C 0235-20</kurs-codenr>
-    <suchw>14107558</suchw>
-    <suchw>14107559</suchw>
-    <suchw>14107560</suchw>
+    <suchw>15033632</suchw>
+    <suchw>15033633</suchw>
+    <suchw>15033634</suchw>
   </kompmerkmal>
   <kompmerkmal id="131040">
     <komp-parent>57575</komp-parent>
@@ -82143,10 +82203,11 @@
     <komp-parent>59995</komp-parent>
     <bezeichnung>CAD-Anwendung AutoCAD LT</bezeichnung>
     <kurs-codenr>C 0630</kurs-codenr>
-    <suchw>14349935</suchw>
-    <suchw>14349936</suchw>
-    <suchw>14349937</suchw>
-    <suchw>14349938</suchw>
+    <suchw>15150887</suchw>
+    <suchw>15150888</suchw>
+    <suchw>15150889</suchw>
+    <suchw>15150890</suchw>
+    <suchw>15150891</suchw>
   </kompmerkmal>
   <kompmerkmal id="131682">
     <komp-parent>59999</komp-parent>
@@ -82353,5 +82414,1628 @@
     <suchw>14469937</suchw>
     <suchw>14469938</suchw>
     <suchw>14469939</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="132592">
+    <komp-parent>59985</komp-parent>
+    <bezeichnung>Vendor Management</bezeichnung>
+    <kurs-codenr>C 0235-20-10</kurs-codenr>
+    <suchw>14960216</suchw>
+    <suchw>14960217</suchw>
+    <suchw>14960218</suchw>
+    <suchw>14960219</suchw>
+    <suchw>14960220</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="132593">
+    <komp-parent>57575</komp-parent>
+    <bezeichnung>Programmiersprache TypeScript</bezeichnung>
+    <kurs-codenr>C 1435-10-40-15</kurs-codenr>
+    <suchw>14512296</suchw>
+    <suchw>14512297</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="132594">
+    <komp-parent>59948</komp-parent>
+    <bezeichnung>Camping- und Freizeitartikel</bezeichnung>
+    <kurs-codenr>C 0225-20</kurs-codenr>
+    <suchw>14512298</suchw>
+    <suchw>14512299</suchw>
+    <suchw>14512300</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="132612">
+    <komp-parent>57524</komp-parent>
+    <bezeichnung>Balkanküche</bezeichnung>
+    <kurs-codenr>C 0830-10</kurs-codenr>
+    <suchw>14556818</suchw>
+    <suchw>14556819</suchw>
+    <suchw>14556820</suchw>
+    <suchw>14556821</suchw>
+    <suchw>14556822</suchw>
+    <suchw>14556823</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="132613">
+    <komp-parent>59996</komp-parent>
+    <bezeichnung>CNC-, NC-Programm Fagor</bezeichnung>
+    <kurs-codenr>C 2430-15-10</kurs-codenr>
+    <suchw>14556824</suchw>
+    <suchw>14556825</suchw>
+    <suchw>14556826</suchw>
+    <suchw>14556827</suchw>
+    <suchw>14556828</suchw>
+    <suchw>14556829</suchw>
+    <suchw>14556830</suchw>
+    <suchw>14556831</suchw>
+    <suchw>14556832</suchw>
+    <suchw>14556833</suchw>
+    <suchw>14556834</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="132614">
+    <komp-parent>57577</komp-parent>
+    <bezeichnung>Citrix ADC (Application Delivery Controller)</bezeichnung>
+    <kurs-codenr>C 1430-10-25</kurs-codenr>
+    <suchw>14556835</suchw>
+    <suchw>14556836</suchw>
+    <suchw>14556837</suchw>
+    <suchw>14556838</suchw>
+    <suchw>14556839</suchw>
+    <suchw>14556840</suchw>
+    <suchw>14556841</suchw>
+    <suchw>14556842</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="132692">
+    <komp-parent>60004</komp-parent>
+    <bezeichnung>Baukalkulations- u. -abwicklungssoftware Pro-Bau/S</bezeichnung>
+    <kurs-codenr>C 0040-10</kurs-codenr>
+    <suchw>14903399</suchw>
+    <suchw>14903400</suchw>
+    <suchw>14903401</suchw>
+    <suchw>14903402</suchw>
+    <suchw>14903403</suchw>
+    <suchw>14903404</suchw>
+    <suchw>14903405</suchw>
+    <suchw>14903406</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="132693">
+    <komp-parent>60005</komp-parent>
+    <bezeichnung>Software Datev Unternehmen online</bezeichnung>
+    <kurs-codenr>C 1420-30</kurs-codenr>
+    <suchw>14903407</suchw>
+    <suchw>14903408</suchw>
+    <suchw>14903409</suchw>
+    <suchw>14903410</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="132694">
+    <komp-parent>57575</komp-parent>
+    <bezeichnung>Software JFrog Artifactory (kontinuierliche Integration)</bezeichnung>
+    <kurs-codenr>C 1435-10-10</kurs-codenr>
+    <suchw>14903411</suchw>
+    <suchw>14903412</suchw>
+    <suchw>14903413</suchw>
+    <suchw>14903414</suchw>
+    <suchw>14903415</suchw>
+    <suchw>14903416</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133013">
+    <komp-parent>60002</komp-parent>
+    <bezeichnung>SPS-System Logo</bezeichnung>
+    <kurs-codenr>C 2435-10-15</kurs-codenr>
+    <suchw>14976497</suchw>
+    <suchw>14976498</suchw>
+    <suchw>14976499</suchw>
+    <suchw>14976500</suchw>
+    <suchw>14976501</suchw>
+    <suchw>14976502</suchw>
+    <suchw>14976503</suchw>
+    <suchw>14976504</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133014">
+    <komp-parent>60005</komp-parent>
+    <bezeichnung>SAP Ariba</bezeichnung>
+    <kurs-codenr>C 1420-15-45</kurs-codenr>
+    <suchw>14976505</suchw>
+    <suchw>14976506</suchw>
+    <suchw>14976507</suchw>
+    <suchw>14976508</suchw>
+    <suchw>14976509</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133015">
+    <komp-parent>60012</komp-parent>
+    <bezeichnung>E-Commerce-Software Shopify</bezeichnung>
+    <kurs-codenr>C 1420-35</kurs-codenr>
+    <suchw>14976510</suchw>
+    <suchw>14976511</suchw>
+    <suchw>14976512</suchw>
+    <suchw>14976513</suchw>
+    <suchw>14976514</suchw>
+    <suchw>14976515</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133016">
+    <komp-parent>57575</komp-parent>
+    <bezeichnung>Entwicklungsumgebung Oracle Application Express (APEX)</bezeichnung>
+    <kurs-codenr>C 1435-15-20</kurs-codenr>
+    <suchw>14976516</suchw>
+    <suchw>14976517</suchw>
+    <suchw>14976518</suchw>
+    <suchw>14976519</suchw>
+    <suchw>14976520</suchw>
+    <suchw>14976521</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133052">
+    <komp-parent>59892</komp-parent>
+    <bezeichnung>Smart-Spraying-Technologien</bezeichnung>
+    <kurs-codenr>C 1810-10</kurs-codenr>
+    <suchw>15034503</suchw>
+    <suchw>15034504</suchw>
+    <suchw>15034505</suchw>
+    <suchw>15034506</suchw>
+    <suchw>15034507</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133053">
+    <komp-parent>57381</komp-parent>
+    <bezeichnung>Maschinendatenerfassung</bezeichnung>
+    <kurs-codenr>C 1435-15-10</kurs-codenr>
+    <suchw>15034508</suchw>
+    <suchw>15034509</suchw>
+    <suchw>15034510</suchw>
+    <suchw>15034511</suchw>
+    <suchw>15034512</suchw>
+    <suchw>15034513</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133054">
+    <komp-parent>57385</komp-parent>
+    <bezeichnung>Smarte Glas- und Keramik-Technologien</bezeichnung>
+    <kurs-codenr>C 0045-20-10</kurs-codenr>
+    <suchw>15034514</suchw>
+    <suchw>15034515</suchw>
+    <suchw>15034516</suchw>
+    <suchw>15034517</suchw>
+    <suchw>15034518</suchw>
+    <suchw>15034519</suchw>
+    <suchw>15034520</suchw>
+    <suchw>15034521</suchw>
+    <suchw>15034522</suchw>
+    <suchw>15034523</suchw>
+    <suchw>15034524</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133055">
+    <komp-parent>57385</komp-parent>
+    <bezeichnung>Smarte Kunststoffe</bezeichnung>
+    <kurs-codenr>C 1230-10</kurs-codenr>
+    <suchw>15034525</suchw>
+    <suchw>15034526</suchw>
+    <suchw>15034527</suchw>
+    <suchw>15034528</suchw>
+    <suchw>15034529</suchw>
+    <suchw>15034530</suchw>
+    <suchw>15034531</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133056">
+    <komp-parent>57385</komp-parent>
+    <bezeichnung>Smarte Textilien</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034532</suchw>
+    <suchw>15034533</suchw>
+    <suchw>15034534</suchw>
+    <suchw>15034535</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133057">
+    <komp-parent>57385</komp-parent>
+    <bezeichnung>Smarte Verpackungen</bezeichnung>
+    <kurs-codenr>C 1225</kurs-codenr>
+    <suchw>15034536</suchw>
+    <suchw>15034537</suchw>
+    <suchw>15034538</suchw>
+    <suchw>15034539</suchw>
+    <suchw>15034540</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133058">
+    <komp-parent>57403</komp-parent>
+    <bezeichnung>Autonomes Drucken</bezeichnung>
+    <kurs-codenr>C 2255-15</kurs-codenr>
+    <suchw>15034541</suchw>
+    <suchw>15034542</suchw>
+    <suchw>15034543</suchw>
+    <suchw>15034544</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133059">
+    <komp-parent>57434</komp-parent>
+    <bezeichnung>Platooning</bezeichnung>
+    <kurs-codenr>C 1620-10-10</kurs-codenr>
+    <suchw>15034545</suchw>
+    <suchw>15034546</suchw>
+    <suchw>15034547</suchw>
+    <suchw>15034548</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133060">
+    <komp-parent>59964</komp-parent>
+    <bezeichnung>Vernetzte Produktionssysteme</bezeichnung>
+    <kurs-codenr>C 2435-10-20</kurs-codenr>
+    <suchw>15034549</suchw>
+    <suchw>15034550</suchw>
+    <suchw>15034551</suchw>
+    <suchw>15034552</suchw>
+    <suchw>15034553</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133061">
+    <komp-parent>59965</komp-parent>
+    <bezeichnung>Aktorik</bezeichnung>
+    <kurs-codenr>C 0410-15</kurs-codenr>
+    <suchw>15034554</suchw>
+    <suchw>15034555</suchw>
+    <suchw>15034556</suchw>
+    <suchw>15034557</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133062">
+    <komp-parent>59967</komp-parent>
+    <bezeichnung>5G-Technologie</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034558</suchw>
+    <suchw>15034559</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133063">
+    <komp-parent>59967</komp-parent>
+    <bezeichnung>Ambient Assisted Living</bezeichnung>
+    <kurs-codenr>C 2435-10-15</kurs-codenr>
+    <suchw>15034560</suchw>
+    <suchw>15034561</suchw>
+    <suchw>15034562</suchw>
+    <suchw>15034563</suchw>
+    <suchw>15034564</suchw>
+    <suchw>15034565</suchw>
+    <suchw>15034566</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133064">
+    <komp-parent>59967</komp-parent>
+    <bezeichnung>Connected-Building-Lösungen</bezeichnung>
+    <kurs-codenr>C 2420-35</kurs-codenr>
+    <suchw>15034567</suchw>
+    <suchw>15034568</suchw>
+    <suchw>15034569</suchw>
+    <suchw>15034570</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133065">
+    <komp-parent>59967</komp-parent>
+    <bezeichnung>Connected-Car-Lösungen</bezeichnung>
+    <kurs-codenr>C 2440-10-20</kurs-codenr>
+    <suchw>15034571</suchw>
+    <suchw>15034572</suchw>
+    <suchw>15034573</suchw>
+    <suchw>15034574</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133066">
+    <komp-parent>59967</komp-parent>
+    <bezeichnung>Echtzeitdatensysteme</bezeichnung>
+    <kurs-codenr>C 2415-15</kurs-codenr>
+    <suchw>15034575</suchw>
+    <suchw>15034576</suchw>
+    <suchw>15034577</suchw>
+    <suchw>15034578</suchw>
+    <suchw>15034579</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133067">
+    <komp-parent>59967</komp-parent>
+    <bezeichnung>IoT-Plattformen</bezeichnung>
+    <kurs-codenr>C 1430-10-10</kurs-codenr>
+    <suchw>15034580</suchw>
+    <suchw>15034581</suchw>
+    <suchw>15034582</suchw>
+    <suchw>15034583</suchw>
+    <suchw>15034584</suchw>
+    <suchw>15034585</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133068">
+    <komp-parent>59967</komp-parent>
+    <bezeichnung>Light Detecting and Ranging (Lidar)</bezeichnung>
+    <kurs-codenr>C 0410-10</kurs-codenr>
+    <suchw>15034586</suchw>
+    <suchw>15034587</suchw>
+    <suchw>15034588</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133069">
+    <komp-parent>59967</komp-parent>
+    <bezeichnung>Narrow-Band-IoT</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034589</suchw>
+    <suchw>15034590</suchw>
+    <suchw>15034591</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133070">
+    <komp-parent>59967</komp-parent>
+    <bezeichnung>Smart Metering</bezeichnung>
+    <kurs-codenr>C 0425-10</kurs-codenr>
+    <suchw>15034592</suchw>
+    <suchw>15034593</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133071">
+    <komp-parent>59967</komp-parent>
+    <bezeichnung>Virtuelle Callcenter</bezeichnung>
+    <kurs-codenr>C 1420-35</kurs-codenr>
+    <suchw>15034594</suchw>
+    <suchw>15034595</suchw>
+    <suchw>15034596</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133072">
+    <komp-parent>59967</komp-parent>
+    <bezeichnung>Virtuelle Messen</bezeichnung>
+    <kurs-codenr>C 0820</kurs-codenr>
+    <suchw>15034597</suchw>
+    <suchw>15034598</suchw>
+    <suchw>15034599</suchw>
+    <suchw>15034600</suchw>
+    <suchw>15034601</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133073">
+    <komp-parent>59967</komp-parent>
+    <bezeichnung>Virtuelles Training</bezeichnung>
+    <kurs-codenr>C 2620-10</kurs-codenr>
+    <suchw>15034602</suchw>
+    <suchw>15034603</suchw>
+    <suchw>15034604</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133074">
+    <komp-parent>59967</komp-parent>
+    <bezeichnung>Wearable Technology</bezeichnung>
+    <kurs-codenr>C 0410-15</kurs-codenr>
+    <suchw>15034605</suchw>
+    <suchw>15034606</suchw>
+    <suchw>15034607</suchw>
+    <suchw>15034608</suchw>
+    <suchw>15034609</suchw>
+    <suchw>15034610</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133075">
+    <komp-parent>59967</komp-parent>
+    <bezeichnung>Smartboard</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034611</suchw>
+    <suchw>15034612</suchw>
+    <suchw>15034613</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133076">
+    <komp-parent>57461</komp-parent>
+    <bezeichnung>API-Banking</bezeichnung>
+    <kurs-codenr>C 0220-10-10</kurs-codenr>
+    <suchw>15034614</suchw>
+    <suchw>15034615</suchw>
+    <suchw>15034616</suchw>
+    <suchw>15034617</suchw>
+    <suchw>15034618</suchw>
+    <suchw>15034619</suchw>
+    <suchw>15034620</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133077">
+    <komp-parent>57461</komp-parent>
+    <bezeichnung>Mobile Payment</bezeichnung>
+    <kurs-codenr>C 0220-10-10</kurs-codenr>
+    <suchw>15034621</suchw>
+    <suchw>15034622</suchw>
+    <suchw>15034623</suchw>
+    <suchw>15034624</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133078">
+    <komp-parent>59981</komp-parent>
+    <bezeichnung>Crowdpublishing</bezeichnung>
+    <kurs-codenr>C 2215-25</kurs-codenr>
+    <suchw>15034625</suchw>
+    <suchw>15034626</suchw>
+    <suchw>15034627</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133079">
+    <komp-parent>59981</komp-parent>
+    <bezeichnung>Curated Shopping</bezeichnung>
+    <kurs-codenr>C 1420-35</kurs-codenr>
+    <suchw>15034628</suchw>
+    <suchw>15034629</suchw>
+    <suchw>15034630</suchw>
+    <suchw>15034631</suchw>
+    <suchw>15034632</suchw>
+    <suchw>15034633</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133080">
+    <komp-parent>59981</komp-parent>
+    <bezeichnung>Data-Driven-Marketing</bezeichnung>
+    <kurs-codenr>C 0240-15-15</kurs-codenr>
+    <suchw>15034634</suchw>
+    <suchw>15034635</suchw>
+    <suchw>15034636</suchw>
+    <suchw>15034637</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133081">
+    <komp-parent>59981</komp-parent>
+    <bezeichnung>Dynamic Creative Optimization</bezeichnung>
+    <kurs-codenr>C 0240-30-10</kurs-codenr>
+    <suchw>15034638</suchw>
+    <suchw>15034639</suchw>
+    <suchw>15034640</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133082">
+    <komp-parent>59981</komp-parent>
+    <bezeichnung>Interaktive Verkaufsassistenten</bezeichnung>
+    <kurs-codenr>C 0225-15</kurs-codenr>
+    <suchw>15034641</suchw>
+    <suchw>15034642</suchw>
+    <suchw>15034643</suchw>
+    <suchw>15034644</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133083">
+    <komp-parent>59981</komp-parent>
+    <bezeichnung>Marketing-Automation-Systeme</bezeichnung>
+    <kurs-codenr>C 0240-15-15</kurs-codenr>
+    <suchw>15303263</suchw>
+    <suchw>15303264</suchw>
+    <suchw>15303265</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133084">
+    <komp-parent>59981</komp-parent>
+    <bezeichnung>Messenger-Marketing</bezeichnung>
+    <kurs-codenr>C 0240-15-15</kurs-codenr>
+    <suchw>15034647</suchw>
+    <suchw>15034648</suchw>
+    <suchw>15034649</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133085">
+    <komp-parent>59981</komp-parent>
+    <bezeichnung>Omnichannel Retailing</bezeichnung>
+    <kurs-codenr>C 1420-35</kurs-codenr>
+    <suchw>15034650</suchw>
+    <suchw>15034651</suchw>
+    <suchw>15034652</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133086">
+    <komp-parent>59981</komp-parent>
+    <bezeichnung>Programmatic Advertising</bezeichnung>
+    <kurs-codenr>C 0240-30-10</kurs-codenr>
+    <suchw>15034653</suchw>
+    <suchw>15034654</suchw>
+    <suchw>15034655</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133087">
+    <komp-parent>59981</komp-parent>
+    <bezeichnung>Selfpublishing-Plattformen</bezeichnung>
+    <kurs-codenr>C 2215-25</kurs-codenr>
+    <suchw>15034656</suchw>
+    <suchw>15034657</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133088">
+    <komp-parent>59984</komp-parent>
+    <bezeichnung>E-Invoicing</bezeichnung>
+    <kurs-codenr>C 0220-10-10</kurs-codenr>
+    <suchw>15034658</suchw>
+    <suchw>15034659</suchw>
+    <suchw>15034660</suchw>
+    <suchw>15034661</suchw>
+    <suchw>15034662</suchw>
+    <suchw>15034663</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133089">
+    <komp-parent>59985</komp-parent>
+    <bezeichnung>Process Mining</bezeichnung>
+    <kurs-codenr>C 2435-10-20</kurs-codenr>
+    <suchw>15034664</suchw>
+    <suchw>15034665</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133090">
+    <komp-parent>59990</komp-parent>
+    <bezeichnung>Bürgerkonto / KM-eGovCenter</bezeichnung>
+    <kurs-codenr>C 0250-10</kurs-codenr>
+    <suchw>15034666</suchw>
+    <suchw>15034667</suchw>
+    <suchw>15034668</suchw>
+    <suchw>15034669</suchw>
+    <suchw>15034670</suchw>
+    <suchw>15034671</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133091">
+    <komp-parent>59990</komp-parent>
+    <bezeichnung>Electronic Identification</bezeichnung>
+    <kurs-codenr>C 0250-10</kurs-codenr>
+    <suchw>15034672</suchw>
+    <suchw>15034673</suchw>
+    <suchw>15034674</suchw>
+    <suchw>15034675</suchw>
+    <suchw>15034676</suchw>
+    <suchw>15034677</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133092">
+    <komp-parent>59990</komp-parent>
+    <bezeichnung>E-Partizipation</bezeichnung>
+    <kurs-codenr>C 0250-10</kurs-codenr>
+    <suchw>15034678</suchw>
+    <suchw>15034679</suchw>
+    <suchw>15034680</suchw>
+    <suchw>15034681</suchw>
+    <suchw>15034682</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133093">
+    <komp-parent>59990</komp-parent>
+    <bezeichnung>Formularmanagementsysteme</bezeichnung>
+    <kurs-codenr>C 0250-10</kurs-codenr>
+    <suchw>15034683</suchw>
+    <suchw>15034684</suchw>
+    <suchw>15034685</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133094">
+    <komp-parent>57492</komp-parent>
+    <bezeichnung>Kommissioniersysteme</bezeichnung>
+    <kurs-codenr>C 1615-15</kurs-codenr>
+    <suchw>15034686</suchw>
+    <suchw>15034687</suchw>
+    <suchw>15034688</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133095">
+    <komp-parent>57492</komp-parent>
+    <bezeichnung>Tracking- und Tracing-Systeme</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034689</suchw>
+    <suchw>15034690</suchw>
+    <suchw>15034691</suchw>
+    <suchw>15034692</suchw>
+    <suchw>15034693</suchw>
+    <suchw>15034694</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133096">
+    <komp-parent>57500</komp-parent>
+    <bezeichnung>Digitale Verkehrs- und Parkleitsysteme</bezeichnung>
+    <kurs-codenr>C 1620-20-10</kurs-codenr>
+    <suchw>15034695</suchw>
+    <suchw>15034696</suchw>
+    <suchw>15034697</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133097">
+    <komp-parent>57513</komp-parent>
+    <bezeichnung>Digitaler Concierge</bezeichnung>
+    <kurs-codenr>C 0810-20</kurs-codenr>
+    <suchw>15034698</suchw>
+    <suchw>15034699</suchw>
+    <suchw>15034700</suchw>
+    <suchw>15034701</suchw>
+    <suchw>15034702</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133098">
+    <komp-parent>57558</komp-parent>
+    <bezeichnung>Digitales Wassermanagement</bezeichnung>
+    <kurs-codenr>C 0430-10</kurs-codenr>
+    <suchw>15034703</suchw>
+    <suchw>15034704</suchw>
+    <suchw>15034705</suchw>
+    <suchw>15034706</suchw>
+    <suchw>15034707</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133099">
+    <komp-parent>59921</komp-parent>
+    <bezeichnung>Demand-Side-Management</bezeichnung>
+    <kurs-codenr>C 0425-10</kurs-codenr>
+    <suchw>15034708</suchw>
+    <suchw>15034709</suchw>
+    <suchw>15034710</suchw>
+    <suchw>15034711</suchw>
+    <suchw>15034712</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133100">
+    <komp-parent>59921</komp-parent>
+    <bezeichnung>Virtuelle Kraftwerke</bezeichnung>
+    <kurs-codenr>C 0425-10</kurs-codenr>
+    <suchw>15034713</suchw>
+    <suchw>15034714</suchw>
+    <suchw>15034715</suchw>
+    <suchw>15034716</suchw>
+    <suchw>15034717</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133101">
+    <komp-parent>57570</komp-parent>
+    <bezeichnung>Automatische Identifizierungstechnologien (AutoID)</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034718</suchw>
+    <suchw>15034719</suchw>
+    <suchw>15034720</suchw>
+    <suchw>15034721</suchw>
+    <suchw>15034722</suchw>
+    <suchw>15034723</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133102">
+    <komp-parent>57570</komp-parent>
+    <bezeichnung>Colocation</bezeichnung>
+    <kurs-codenr>C 1430-20-15</kurs-codenr>
+    <suchw>15034724</suchw>
+    <suchw>15034725</suchw>
+    <suchw>15034726</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133103">
+    <komp-parent>57570</komp-parent>
+    <bezeichnung>Edge Computing</bezeichnung>
+    <kurs-codenr>C 1430-10-10</kurs-codenr>
+    <suchw>15034727</suchw>
+    <suchw>15034728</suchw>
+    <suchw>15034729</suchw>
+    <suchw>15034730</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133104">
+    <komp-parent>57570</komp-parent>
+    <bezeichnung>Order-to-Cash-Plattformen</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034731</suchw>
+    <suchw>15034732</suchw>
+    <suchw>15034733</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133105">
+    <komp-parent>57570</komp-parent>
+    <bezeichnung>Serverless Computing</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034734</suchw>
+    <suchw>15034735</suchw>
+    <suchw>15034736</suchw>
+    <suchw>15034737</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133106">
+    <komp-parent>57570</komp-parent>
+    <bezeichnung>Video-Ident-Verfahren</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034738</suchw>
+    <suchw>15034739</suchw>
+    <suchw>15034740</suchw>
+    <suchw>15034741</suchw>
+    <suchw>15034742</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133107">
+    <komp-parent>59997</komp-parent>
+    <bezeichnung>3D-Simulation</bezeichnung>
+    <kurs-codenr>C 1425</kurs-codenr>
+    <suchw>15034743</suchw>
+    <suchw>15034744</suchw>
+    <suchw>15034745</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133108">
+    <komp-parent>59997</komp-parent>
+    <bezeichnung>3D-Laserscanning</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034746</suchw>
+    <suchw>15034747</suchw>
+    <suchw>15034748</suchw>
+    <suchw>15034749</suchw>
+    <suchw>15034750</suchw>
+    <suchw>15034751</suchw>
+    <suchw>15034752</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133109">
+    <komp-parent>59997</komp-parent>
+    <bezeichnung>Digitale Zwillingstechnologie</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034753</suchw>
+    <suchw>15034754</suchw>
+    <suchw>15034755</suchw>
+    <suchw>15034756</suchw>
+    <suchw>15034757</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133110">
+    <komp-parent>59997</komp-parent>
+    <bezeichnung>Virtual Prototyping</bezeichnung>
+    <kurs-codenr>C 2430-10</kurs-codenr>
+    <suchw>15034758</suchw>
+    <suchw>15034759</suchw>
+    <suchw>15034760</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133111">
+    <komp-parent>59997</komp-parent>
+    <bezeichnung>Virtueller Patient</bezeichnung>
+    <kurs-codenr>C 1040-10</kurs-codenr>
+    <suchw>15034761</suchw>
+    <suchw>15034762</suchw>
+    <suchw>15034763</suchw>
+    <suchw>15034764</suchw>
+    <suchw>15034765</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133112">
+    <komp-parent>59998</komp-parent>
+    <bezeichnung>Digitale Topografische Karten</bezeichnung>
+    <kurs-codenr>C 2035</kurs-codenr>
+    <suchw>15152371</suchw>
+    <suchw>15152372</suchw>
+    <suchw>15152373</suchw>
+    <suchw>15152374</suchw>
+    <suchw>15152375</suchw>
+    <suchw>15152376</suchw>
+    <suchw>15152377</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133113">
+    <komp-parent>60000</komp-parent>
+    <bezeichnung>Content-as-a-Service-Dienste</bezeichnung>
+    <kurs-codenr>C 1415-45</kurs-codenr>
+    <suchw>15034771</suchw>
+    <suchw>15034772</suchw>
+    <suchw>15034773</suchw>
+    <suchw>15034774</suchw>
+    <suchw>15034775</suchw>
+    <suchw>15034776</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133114">
+    <komp-parent>60000</komp-parent>
+    <bezeichnung>Social Media Analytics</bezeichnung>
+    <kurs-codenr>C 0240-15-15</kurs-codenr>
+    <suchw>15034777</suchw>
+    <suchw>15034778</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133115">
+    <komp-parent>60000</komp-parent>
+    <bezeichnung>User Entity Behavior Analytics</bezeichnung>
+    <kurs-codenr>C 1430-25-10</kurs-codenr>
+    <suchw>15034779</suchw>
+    <suchw>15034780</suchw>
+    <suchw>15034781</suchw>
+    <suchw>15034782</suchw>
+    <suchw>15034783</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133116">
+    <komp-parent>60001</komp-parent>
+    <bezeichnung>Farm-Management-Software</bezeichnung>
+    <kurs-codenr>C 1810-10</kurs-codenr>
+    <suchw>15034784</suchw>
+    <suchw>15034785</suchw>
+    <suchw>15034786</suchw>
+    <suchw>15034787</suchw>
+    <suchw>15034788</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133117">
+    <komp-parent>60001</komp-parent>
+    <bezeichnung>Flottenmanagement-Software</bezeichnung>
+    <kurs-codenr>C 1615-25-20</kurs-codenr>
+    <suchw>15034789</suchw>
+    <suchw>15034790</suchw>
+    <suchw>15034791</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133118">
+    <komp-parent>60001</komp-parent>
+    <bezeichnung>Sprachassistenten</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034792</suchw>
+    <suchw>15034793</suchw>
+    <suchw>15034794</suchw>
+    <suchw>15034795</suchw>
+    <suchw>15034796</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133119">
+    <komp-parent>57572</komp-parent>
+    <bezeichnung>Data Lake</bezeichnung>
+    <kurs-codenr>C 1435-15-25</kurs-codenr>
+    <suchw>15034797</suchw>
+    <suchw>15034798</suchw>
+    <suchw>15034799</suchw>
+    <suchw>15034800</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133120">
+    <komp-parent>57572</komp-parent>
+    <bezeichnung>Digitales Sammlungsmanagement</bezeichnung>
+    <kurs-codenr>C 2220-20</kurs-codenr>
+    <suchw>15034801</suchw>
+    <suchw>15034802</suchw>
+    <suchw>15034803</suchw>
+    <suchw>15034804</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133121">
+    <komp-parent>57572</komp-parent>
+    <bezeichnung>Distributed Filesystem</bezeichnung>
+    <kurs-codenr>C 1430-10-10</kurs-codenr>
+    <suchw>15034805</suchw>
+    <suchw>15034806</suchw>
+    <suchw>15034807</suchw>
+    <suchw>15034808</suchw>
+    <suchw>15034809</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133122">
+    <komp-parent>57572</komp-parent>
+    <bezeichnung>Distributed Ledger Technology</bezeichnung>
+    <kurs-codenr>C 1435-15-25</kurs-codenr>
+    <suchw>15034810</suchw>
+    <suchw>15034811</suchw>
+    <suchw>15034812</suchw>
+    <suchw>15034813</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133123">
+    <komp-parent>57572</komp-parent>
+    <bezeichnung>In-Memory Computing</bezeichnung>
+    <kurs-codenr>C 1430-25-10</kurs-codenr>
+    <suchw>15034814</suchw>
+    <suchw>15034815</suchw>
+    <suchw>15034816</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133124">
+    <komp-parent>57573</komp-parent>
+    <bezeichnung>Affective Computing</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034817</suchw>
+    <suchw>15034818</suchw>
+    <suchw>15034819</suchw>
+    <suchw>15034820</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133125">
+    <komp-parent>57573</komp-parent>
+    <bezeichnung>Algorithmic Decision Making</bezeichnung>
+    <kurs-codenr>C 0220-10-10</kurs-codenr>
+    <suchw>15034821</suchw>
+    <suchw>15034822</suchw>
+    <suchw>15034823</suchw>
+    <suchw>15034824</suchw>
+    <suchw>15034825</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133126">
+    <komp-parent>57573</komp-parent>
+    <bezeichnung>Augmented Analytics</bezeichnung>
+    <kurs-codenr>C 1435-10-10</kurs-codenr>
+    <suchw>15034826</suchw>
+    <suchw>15034827</suchw>
+    <suchw>15034828</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133127">
+    <komp-parent>57573</komp-parent>
+    <bezeichnung>Chatbots</bezeichnung>
+    <kurs-codenr>C 0420</kurs-codenr>
+    <suchw>15034829</suchw>
+    <suchw>15034830</suchw>
+    <suchw>15034831</suchw>
+    <suchw>15034832</suchw>
+    <suchw>15034833</suchw>
+    <suchw>15034834</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133128">
+    <komp-parent>57573</komp-parent>
+    <bezeichnung>Cognitive Computing</bezeichnung>
+    <kurs-codenr>C 1435-10-10</kurs-codenr>
+    <suchw>15034835</suchw>
+    <suchw>15034836</suchw>
+    <suchw>15034837</suchw>
+    <suchw>15034838</suchw>
+    <suchw>15034839</suchw>
+    <suchw>15034840</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133129">
+    <komp-parent>57573</komp-parent>
+    <bezeichnung>Maschine-zu-Maschine-Kommunikation</bezeichnung>
+    <kurs-codenr>C 0420</kurs-codenr>
+    <suchw>15034841</suchw>
+    <suchw>15034842</suchw>
+    <suchw>15034843</suchw>
+    <suchw>15034844</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133130">
+    <komp-parent>57573</komp-parent>
+    <bezeichnung>Mensch-Maschine-Kommunikation</bezeichnung>
+    <kurs-codenr>C 0420</kurs-codenr>
+    <suchw>15034845</suchw>
+    <suchw>15034846</suchw>
+    <suchw>15034847</suchw>
+    <suchw>15034848</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133131">
+    <komp-parent>57573</komp-parent>
+    <bezeichnung>Natural Language Generation</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034849</suchw>
+    <suchw>15034850</suchw>
+    <suchw>15034851</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133132">
+    <komp-parent>57573</komp-parent>
+    <bezeichnung>Natural Language Processing</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034852</suchw>
+    <suchw>15034853</suchw>
+    <suchw>15034854</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133133">
+    <komp-parent>57573</komp-parent>
+    <bezeichnung>Predictive Analytics</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034855</suchw>
+    <suchw>15034856</suchw>
+    <suchw>15034857</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133134">
+    <komp-parent>57573</komp-parent>
+    <bezeichnung>Predictive Maintenance</bezeichnung>
+    <kurs-codenr>C 2820</kurs-codenr>
+    <suchw>15034858</suchw>
+    <suchw>15034859</suchw>
+    <suchw>15034860</suchw>
+    <suchw>15034861</suchw>
+    <suchw>15034862</suchw>
+    <suchw>15034863</suchw>
+    <suchw>15034864</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133135">
+    <komp-parent>57573</komp-parent>
+    <bezeichnung>Spatial Mapping</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034865</suchw>
+    <suchw>15034866</suchw>
+    <suchw>15034867</suchw>
+    <suchw>15034868</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133136">
+    <komp-parent>60005</komp-parent>
+    <bezeichnung>Business-Process-Management-Systeme</bezeichnung>
+    <kurs-codenr>C 0235-20-15</kurs-codenr>
+    <suchw>15034869</suchw>
+    <suchw>15034870</suchw>
+    <suchw>15034871</suchw>
+    <suchw>15034872</suchw>
+    <suchw>15034873</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133137">
+    <komp-parent>60005</komp-parent>
+    <bezeichnung>Robo-Advisor</bezeichnung>
+    <kurs-codenr>C 0220-10-10</kurs-codenr>
+    <suchw>15034874</suchw>
+    <suchw>15034875</suchw>
+    <suchw>15034876</suchw>
+    <suchw>15034877</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133138">
+    <komp-parent>60005</komp-parent>
+    <bezeichnung>Virtuelle Projekträume</bezeichnung>
+    <kurs-codenr>C 1415-40-15</kurs-codenr>
+    <suchw>15034878</suchw>
+    <suchw>15034879</suchw>
+    <suchw>15034880</suchw>
+    <suchw>15034881</suchw>
+    <suchw>15034882</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133139">
+    <komp-parent>60005</komp-parent>
+    <bezeichnung>Warehouse-Management-Systeme</bezeichnung>
+    <kurs-codenr>C 1615-10</kurs-codenr>
+    <suchw>15034883</suchw>
+    <suchw>15034884</suchw>
+    <suchw>15034885</suchw>
+    <suchw>15034886</suchw>
+    <suchw>15034887</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133140">
+    <komp-parent>60006</komp-parent>
+    <bezeichnung>De-Mail</bezeichnung>
+    <kurs-codenr>C 0420</kurs-codenr>
+    <suchw>15034888</suchw>
+    <suchw>15034889</suchw>
+    <suchw>15034890</suchw>
+    <suchw>15034891</suchw>
+    <suchw>15034892</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133141">
+    <komp-parent>60009</komp-parent>
+    <bezeichnung>Legal Technology</bezeichnung>
+    <kurs-codenr>C 0250-15-70</kurs-codenr>
+    <suchw>15034893</suchw>
+    <suchw>15034894</suchw>
+    <suchw>15034895</suchw>
+    <suchw>15034896</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133142">
+    <komp-parent>60010</komp-parent>
+    <bezeichnung>Bewerbermanagementsysteme</bezeichnung>
+    <kurs-codenr>C 0245-10-35-10</kurs-codenr>
+    <suchw>15034897</suchw>
+    <suchw>15034898</suchw>
+    <suchw>15034899</suchw>
+    <suchw>15034900</suchw>
+    <suchw>15034901</suchw>
+    <suchw>15034902</suchw>
+    <suchw>15034903</suchw>
+    <suchw>15034904</suchw>
+    <suchw>15034905</suchw>
+    <suchw>15034906</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133143">
+    <komp-parent>60010</komp-parent>
+    <bezeichnung>Digitales Workforce-Management</bezeichnung>
+    <kurs-codenr>C 0245-10-30</kurs-codenr>
+    <suchw>15034907</suchw>
+    <suchw>15034908</suchw>
+    <suchw>15034909</suchw>
+    <suchw>15034910</suchw>
+    <suchw>15034911</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133144">
+    <komp-parent>60011</komp-parent>
+    <bezeichnung>Mobilitätsplattformen</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034912</suchw>
+    <suchw>15034913</suchw>
+    <suchw>15034914</suchw>
+    <suchw>15034915</suchw>
+    <suchw>15034916</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133145">
+    <komp-parent>60012</komp-parent>
+    <bezeichnung>Smart Contract</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034917</suchw>
+    <suchw>15034918</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133146">
+    <komp-parent>60012</komp-parent>
+    <bezeichnung>Vertragsgeneratoren</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034919</suchw>
+    <suchw>15034920</suchw>
+    <suchw>15034921</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133147">
+    <komp-parent>60012</komp-parent>
+    <bezeichnung>E-Ticketing</bezeichnung>
+    <kurs-codenr>C 1620-35-10</kurs-codenr>
+    <suchw>15034922</suchw>
+    <suchw>15034923</suchw>
+    <suchw>15034924</suchw>
+    <suchw>15034925</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133148">
+    <komp-parent>59924</komp-parent>
+    <bezeichnung>Bilderkennung</bezeichnung>
+    <kurs-codenr>C 2250-20</kurs-codenr>
+    <suchw>15034926</suchw>
+    <suchw>15034927</suchw>
+    <suchw>15034928</suchw>
+    <suchw>15034929</suchw>
+    <suchw>15034930</suchw>
+    <suchw>15034931</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133149">
+    <komp-parent>59924</komp-parent>
+    <bezeichnung>Blockchain</bezeichnung>
+    <kurs-codenr>C 1435-15-25</kurs-codenr>
+    <suchw>15034932</suchw>
+    <suchw>15034933</suchw>
+    <suchw>15034934</suchw>
+    <suchw>15034935</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133150">
+    <komp-parent>59924</komp-parent>
+    <bezeichnung>Kryptowährung</bezeichnung>
+    <kurs-codenr>C 0220-10-10</kurs-codenr>
+    <suchw>15034936</suchw>
+    <suchw>15034937</suchw>
+    <suchw>15034938</suchw>
+    <suchw>15034939</suchw>
+    <suchw>15034940</suchw>
+    <suchw>15034941</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133151">
+    <komp-parent>57583</komp-parent>
+    <bezeichnung>Text-Mining</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034942</suchw>
+    <suchw>15034943</suchw>
+    <suchw>15034944</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133152">
+    <komp-parent>57589</komp-parent>
+    <bezeichnung>Flexible organische Elektronik</bezeichnung>
+    <kurs-codenr>C 0410-10</kurs-codenr>
+    <suchw>15034945</suchw>
+    <suchw>15034946</suchw>
+    <suchw>15034947</suchw>
+    <suchw>15034948</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133153">
+    <komp-parent>59926</komp-parent>
+    <bezeichnung>4D-Drucken</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034949</suchw>
+    <suchw>15034950</suchw>
+    <suchw>15034951</suchw>
+    <suchw>15034952</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133154">
+    <komp-parent>59926</komp-parent>
+    <bezeichnung>Computed Axial Lithography</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034953</suchw>
+    <suchw>15034954</suchw>
+    <suchw>15034955</suchw>
+    <suchw>15034956</suchw>
+    <suchw>15034957</suchw>
+    <suchw>15034958</suchw>
+    <suchw>15034959</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133155">
+    <komp-parent>59926</komp-parent>
+    <bezeichnung>Drohnentechnik</bezeichnung>
+    <kurs-codenr>C 2210-15</kurs-codenr>
+    <suchw>15034960</suchw>
+    <suchw>15034961</suchw>
+    <suchw>15034962</suchw>
+    <suchw>15034963</suchw>
+    <suchw>15034964</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133156">
+    <komp-parent>59926</komp-parent>
+    <bezeichnung>Holografie</bezeichnung>
+    <kurs-codenr>C 2210-15</kurs-codenr>
+    <suchw>15034965</suchw>
+    <suchw>15034966</suchw>
+    <suchw>15034967</suchw>
+    <suchw>15034968</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133157">
+    <komp-parent>60017</komp-parent>
+    <bezeichnung>Blended Learning</bezeichnung>
+    <kurs-codenr>C 2620-10</kurs-codenr>
+    <suchw>15034969</suchw>
+    <suchw>15034970</suchw>
+    <suchw>15034971</suchw>
+    <suchw>15034972</suchw>
+    <suchw>15034973</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133158">
+    <komp-parent>60017</komp-parent>
+    <bezeichnung>Game Based Learning</bezeichnung>
+    <kurs-codenr>C 3210-25</kurs-codenr>
+    <suchw>15034974</suchw>
+    <suchw>15034975</suchw>
+    <suchw>15034976</suchw>
+    <suchw>15034977</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133159">
+    <komp-parent>60017</komp-parent>
+    <bezeichnung>Inverted Classroom Model (ICM)</bezeichnung>
+    <kurs-codenr>C 2620-10</kurs-codenr>
+    <suchw>15034978</suchw>
+    <suchw>15034979</suchw>
+    <suchw>15034980</suchw>
+    <suchw>15034981</suchw>
+    <suchw>15034982</suchw>
+    <suchw>15034983</suchw>
+    <suchw>15034984</suchw>
+    <suchw>15034985</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133160">
+    <komp-parent>60017</komp-parent>
+    <bezeichnung>Massive Open Online Course</bezeichnung>
+    <kurs-codenr>C 2620-10</kurs-codenr>
+    <suchw>15034986</suchw>
+    <suchw>15034987</suchw>
+    <suchw>15034988</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133161">
+    <komp-parent>60017</komp-parent>
+    <bezeichnung>Open Educational Resources</bezeichnung>
+    <kurs-codenr/>
+    <suchw>15034989</suchw>
+    <suchw>15034990</suchw>
+    <suchw>15034991</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133162">
+    <komp-parent>60020</komp-parent>
+    <bezeichnung>Computerassistierte Chirurgie</bezeichnung>
+    <kurs-codenr>C 1010-10-15</kurs-codenr>
+    <suchw>15034992</suchw>
+    <suchw>15034993</suchw>
+    <suchw>15034994</suchw>
+    <suchw>15034995</suchw>
+    <suchw>15034996</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133163">
+    <komp-parent>60021</komp-parent>
+    <bezeichnung>Elektronische Patientenakte</bezeichnung>
+    <kurs-codenr>C 1020-40</kurs-codenr>
+    <suchw>15034997</suchw>
+    <suchw>15034998</suchw>
+    <suchw>15034999</suchw>
+    <suchw>15035000</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133164">
+    <komp-parent>60021</komp-parent>
+    <bezeichnung>Telecare</bezeichnung>
+    <kurs-codenr>C 1025-25</kurs-codenr>
+    <suchw>15035001</suchw>
+    <suchw>15035002</suchw>
+    <suchw>15035003</suchw>
+    <suchw>15035004</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133165">
+    <komp-parent>60021</komp-parent>
+    <bezeichnung>Vernetzte Tourenplanung und Leistungserfassung</bezeichnung>
+    <kurs-codenr>C 1025-50</kurs-codenr>
+    <suchw>15035005</suchw>
+    <suchw>15035006</suchw>
+    <suchw>15035007</suchw>
+    <suchw>15035008</suchw>
+    <suchw>15035009</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133166">
+    <komp-parent>60026</komp-parent>
+    <bezeichnung>KI-basierte medizinische Diagnosesysteme</bezeichnung>
+    <kurs-codenr>C 1040-10</kurs-codenr>
+    <suchw>15035010</suchw>
+    <suchw>15035011</suchw>
+    <suchw>15035012</suchw>
+    <suchw>15035013</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133167">
+    <komp-parent>60038</komp-parent>
+    <bezeichnung>Digitale Kulturvermittlung</bezeichnung>
+    <kurs-codenr>C 2235</kurs-codenr>
+    <suchw>15035014</suchw>
+    <suchw>15035015</suchw>
+    <suchw>15035016</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133168">
+    <komp-parent>60050</komp-parent>
+    <bezeichnung>Datenjournalismus</bezeichnung>
+    <kurs-codenr>C 2215-10-20</kurs-codenr>
+    <suchw>15035017</suchw>
+    <suchw>15035018</suchw>
+    <suchw>15035019</suchw>
+    <suchw>15035020</suchw>
+    <suchw>15035021</suchw>
+    <suchw>15035022</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133169">
+    <komp-parent>60050</komp-parent>
+    <bezeichnung>Mobiler Journalismus</bezeichnung>
+    <kurs-codenr>C 2215-10-20</kurs-codenr>
+    <suchw>15035023</suchw>
+    <suchw>15035024</suchw>
+    <suchw>15035025</suchw>
+    <suchw>15035026</suchw>
+    <suchw>15035027</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133170">
+    <komp-parent>60050</komp-parent>
+    <bezeichnung>Digitales Storytelling</bezeichnung>
+    <kurs-codenr>C 2250-35</kurs-codenr>
+    <suchw>15035028</suchw>
+    <suchw>15035029</suchw>
+    <suchw>15035030</suchw>
+    <suchw>15035031</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133171">
+    <komp-parent>60064</komp-parent>
+    <bezeichnung>Dokumentenkamera</bezeichnung>
+    <kurs-codenr>C 2210-15</kurs-codenr>
+    <suchw>15035032</suchw>
+    <suchw>15035033</suchw>
+    <suchw>15035034</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133172">
+    <komp-parent>60069</komp-parent>
+    <bezeichnung>Agrarroboter</bezeichnung>
+    <kurs-codenr>C 1810-10</kurs-codenr>
+    <suchw>15035035</suchw>
+    <suchw>15035036</suchw>
+    <suchw>15035037</suchw>
+    <suchw>15035038</suchw>
+    <suchw>15035039</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133173">
+    <komp-parent>60069</komp-parent>
+    <bezeichnung>Automatische Fütterungssysteme</bezeichnung>
+    <kurs-codenr>C 1810-10</kurs-codenr>
+    <suchw>15035040</suchw>
+    <suchw>15035041</suchw>
+    <suchw>15035042</suchw>
+    <suchw>15035043</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133174">
+    <komp-parent>60069</komp-parent>
+    <bezeichnung>Automatische Melksysteme</bezeichnung>
+    <kurs-codenr>C 1810-10</kurs-codenr>
+    <suchw>15035044</suchw>
+    <suchw>15035045</suchw>
+    <suchw>15035046</suchw>
+    <suchw>15035047</suchw>
+    <suchw>15035048</suchw>
+    <suchw>15035049</suchw>
+    <suchw>15035050</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133175">
+    <komp-parent>60069</komp-parent>
+    <bezeichnung>Automatische Teilbreitenschaltung</bezeichnung>
+    <kurs-codenr>C 1810-10</kurs-codenr>
+    <suchw>15035051</suchw>
+    <suchw>15035052</suchw>
+    <suchw>15035053</suchw>
+    <suchw>15035054</suchw>
+    <suchw>15035055</suchw>
+    <suchw>15035056</suchw>
+    <suchw>15035057</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133176">
+    <komp-parent>60082</komp-parent>
+    <bezeichnung>Textroboter</bezeichnung>
+    <kurs-codenr>C 1415-15-30</kurs-codenr>
+    <suchw>15035058</suchw>
+    <suchw>15035059</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133177">
+    <komp-parent>60088</komp-parent>
+    <bezeichnung>Color Reader</bezeichnung>
+    <kurs-codenr>C 2245-15-15</kurs-codenr>
+    <suchw>15035060</suchw>
+    <suchw>15035061</suchw>
+    <suchw>15035062</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133178">
+    <komp-parent>60091</komp-parent>
+    <bezeichnung>Bauroboter</bezeichnung>
+    <kurs-codenr>C 0020-15</kurs-codenr>
+    <suchw>15035063</suchw>
+    <suchw>15035064</suchw>
+    <suchw>15035065</suchw>
+    <suchw>15035066</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133179">
+    <komp-parent>59948</komp-parent>
+    <bezeichnung>Collaborative Robots (Cobots)</bezeichnung>
+    <kurs-codenr>C 2430-20</kurs-codenr>
+    <suchw>15035067</suchw>
+    <suchw>15035068</suchw>
+    <suchw>15035069</suchw>
+    <suchw>15035070</suchw>
+    <suchw>15035071</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133180">
+    <komp-parent>59948</komp-parent>
+    <bezeichnung>Industrieroboter</bezeichnung>
+    <kurs-codenr>C 2430-20</kurs-codenr>
+    <suchw>15035072</suchw>
+    <suchw>15035073</suchw>
+    <suchw>15035074</suchw>
+    <suchw>15035075</suchw>
+    <suchw>15035076</suchw>
+    <suchw>15035077</suchw>
+    <suchw>15035078</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133181">
+    <komp-parent>59948</komp-parent>
+    <bezeichnung>Nanoroboter</bezeichnung>
+    <kurs-codenr>C 0415-15</kurs-codenr>
+    <suchw>15035079</suchw>
+    <suchw>15035080</suchw>
+    <suchw>15035081</suchw>
+    <suchw>15035082</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133182">
+    <komp-parent>59948</komp-parent>
+    <bezeichnung>Reinigungsroboter</bezeichnung>
+    <kurs-codenr>C 3030-10</kurs-codenr>
+    <suchw>15303280</suchw>
+    <suchw>15303281</suchw>
+    <suchw>15303282</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133183">
+    <komp-parent>59948</komp-parent>
+    <bezeichnung>Serviceroboter</bezeichnung>
+    <kurs-codenr>C 2435-10-10</kurs-codenr>
+    <suchw>15035085</suchw>
+    <suchw>15035086</suchw>
+    <suchw>15035087</suchw>
+    <suchw>15035088</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133232">
+    <komp-parent>59967</komp-parent>
+    <bezeichnung>Mobile Terminals</bezeichnung>
+    <kurs-codenr>C 0420</kurs-codenr>
+    <suchw>15112233</suchw>
+    <suchw>15112234</suchw>
+    <suchw>15112235</suchw>
+    <suchw>15112236</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133233">
+    <komp-parent>57492</komp-parent>
+    <bezeichnung>Autonome Transportsysteme</bezeichnung>
+    <kurs-codenr>C 1615-25-20</kurs-codenr>
+    <suchw>15112237</suchw>
+    <suchw>15112238</suchw>
+    <suchw>15112239</suchw>
+    <suchw>15112240</suchw>
+    <suchw>15112241</suchw>
+    <suchw>15112242</suchw>
+    <suchw>15112243</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133234">
+    <komp-parent>59999</komp-parent>
+    <bezeichnung>Audio-Mining-Systeme</bezeichnung>
+    <kurs-codenr>C 2210-15</kurs-codenr>
+    <suchw>15112244</suchw>
+    <suchw>15112245</suchw>
+    <suchw>15112246</suchw>
+    <suchw>15112247</suchw>
+    <suchw>15112248</suchw>
+    <suchw>15112249</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133235">
+    <komp-parent>60006</komp-parent>
+    <bezeichnung>Kommunikationssoftware WebEx</bezeichnung>
+    <kurs-codenr>C 1420-10</kurs-codenr>
+    <suchw>15112250</suchw>
+    <suchw>15112251</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133236">
+    <komp-parent>57575</komp-parent>
+    <bezeichnung>Programmiersprache Rust</bezeichnung>
+    <kurs-codenr>C 1435-10-45</kurs-codenr>
+    <suchw>15112252</suchw>
+    <suchw>15112253</suchw>
+    <suchw>15112254</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133237">
+    <komp-parent>60027</komp-parent>
+    <bezeichnung>Intelligente Implantate</bezeichnung>
+    <kurs-codenr>C 1040-10</kurs-codenr>
+    <suchw>15112255</suchw>
+    <suchw>15112256</suchw>
+    <suchw>15112257</suchw>
+    <suchw>15112258</suchw>
+    <suchw>15112259</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133238">
+    <komp-parent>59948</komp-parent>
+    <bezeichnung>Tauchroboter</bezeichnung>
+    <kurs-codenr>C 2440-30</kurs-codenr>
+    <suchw>15112260</suchw>
+    <suchw>15112261</suchw>
+    <suchw>15112262</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133272">
+    <komp-parent>59913</komp-parent>
+    <bezeichnung>Vernetzte Flugplanung</bezeichnung>
+    <kurs-codenr>C 2440-25</kurs-codenr>
+    <suchw>15150930</suchw>
+    <suchw>15150931</suchw>
+    <suchw>15150932</suchw>
+    <suchw>15150933</suchw>
+    <suchw>15150934</suchw>
+    <suchw>15150935</suchw>
+    <suchw>15150936</suchw>
+    <suchw>15150937</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133273">
+    <komp-parent>59995</komp-parent>
+    <bezeichnung>CAD-Anwendung AutoCAD Architecture</bezeichnung>
+    <kurs-codenr>C 0630</kurs-codenr>
+    <suchw>15150938</suchw>
+    <suchw>15150939</suchw>
+    <suchw>15150940</suchw>
+    <suchw>15150941</suchw>
+    <suchw>15150942</suchw>
+    <suchw>15150943</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133274">
+    <komp-parent>60011</komp-parent>
+    <bezeichnung>Tourismusplattformen und -Buchungssysteme</bezeichnung>
+    <kurs-codenr>C 0815-10</kurs-codenr>
+    <suchw>15150944</suchw>
+    <suchw>15150945</suchw>
+    <suchw>15150946</suchw>
+    <suchw>15150947</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133275">
+    <komp-parent>60012</komp-parent>
+    <bezeichnung>SEA-Tool Google Ads</bezeichnung>
+    <kurs-codenr>C 0240-15-15</kurs-codenr>
+    <suchw>15150948</suchw>
+    <suchw>15150949</suchw>
+    <suchw>15150950</suchw>
+    <suchw>15150951</suchw>
+    <suchw>15150952</suchw>
+    <suchw>15150953</suchw>
+    <suchw>15150954</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133276">
+    <komp-parent>60082</komp-parent>
+    <bezeichnung>Gaming-Plattformen, -Konsolen und -Apps</bezeichnung>
+    <kurs-codenr>C 0225-20</kurs-codenr>
+    <suchw>15150955</suchw>
+    <suchw>15150956</suchw>
+    <suchw>15150957</suchw>
+    <suchw>15150958</suchw>
+    <suchw>15150959</suchw>
+    <suchw>15150960</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133277">
+    <komp-parent>60093</komp-parent>
+    <bezeichnung>Bergbauroboter</bezeichnung>
+    <kurs-codenr>C 0045-10</kurs-codenr>
+    <suchw>15150961</suchw>
+    <suchw>15150962</suchw>
+    <suchw>15150963</suchw>
+    <suchw>15150964</suchw>
+    <suchw>15150965</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133336">
+    <komp-parent>59967</komp-parent>
+    <bezeichnung>Vernetzte Operationsführung</bezeichnung>
+    <kurs-codenr>C 0420</kurs-codenr>
+    <suchw>15199625</suchw>
+    <suchw>15199626</suchw>
+    <suchw>15199627</suchw>
+    <suchw>15199628</suchw>
+    <suchw>15199629</suchw>
+    <suchw>15199630</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133337">
+    <komp-parent>60022</komp-parent>
+    <bezeichnung>Augenbrauenbehandlung</bezeichnung>
+    <kurs-codenr>C 1055</kurs-codenr>
+    <suchw>15199631</suchw>
+    <suchw>15199632</suchw>
+    <suchw>15199633</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133338">
+    <komp-parent>60023</komp-parent>
+    <bezeichnung>Impfen</bezeichnung>
+    <kurs-codenr>C 1020-15</kurs-codenr>
+    <suchw>15199634</suchw>
+    <suchw>15199635</suchw>
+    <suchw>15199636</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133339">
+    <komp-parent>59948</komp-parent>
+    <bezeichnung>Militärroboter</bezeichnung>
+    <kurs-codenr>C 2435-10-10</kurs-codenr>
+    <suchw>15199637</suchw>
+    <suchw>15199638</suchw>
+    <suchw>15199639</suchw>
+    <suchw>15199640</suchw>
+    <suchw>15199641</suchw>
+    <suchw>15199642</suchw>
+    <suchw>15199643</suchw>
+    <suchw>15199644</suchw>
+    <suchw>15199645</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133452">
+    <komp-parent>59974</komp-parent>
+    <bezeichnung>Schwingungstechnik</bezeichnung>
+    <kurs-codenr>C 2040-10</kurs-codenr>
+    <suchw>15309682</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133453">
+    <komp-parent>59981</komp-parent>
+    <bezeichnung>Marketing-Automation-System HubSpot</bezeichnung>
+    <kurs-codenr>C 0240-15-15</kurs-codenr>
+    <suchw>15309683</suchw>
+    <suchw>15309684</suchw>
+    <suchw>15309685</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133454">
+    <komp-parent>57570</komp-parent>
+    <bezeichnung>SAP-Berechtigungswesen</bezeichnung>
+    <kurs-codenr>C 0250-15-35</kurs-codenr>
+    <suchw>15309686</suchw>
+    <suchw>15309687</suchw>
+    <suchw>15309688</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133455">
+    <komp-parent>57570</komp-parent>
+    <bezeichnung>Security Automation</bezeichnung>
+    <kurs-codenr>C 1430-25-10</kurs-codenr>
+    <suchw>15309689</suchw>
+    <suchw>15309690</suchw>
+    <suchw>15309691</suchw>
+    <suchw>15309692</suchw>
+    <suchw>15309693</suchw>
+    <suchw>15309694</suchw>
+    <suchw>15309695</suchw>
+    <suchw>15309696</suchw>
+    <suchw>15309697</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133456">
+    <komp-parent>59999</komp-parent>
+    <bezeichnung>Unreal Engine (Entwicklungsumgebung)</bezeichnung>
+    <kurs-codenr>C 2250-25</kurs-codenr>
+    <suchw>15309698</suchw>
+    <suchw>15309699</suchw>
+    <suchw>15309700</suchw>
+    <suchw>15309701</suchw>
+    <suchw>15309702</suchw>
+  </kompmerkmal>
+  <kompmerkmal id="133457">
+    <komp-parent>59948</komp-parent>
+    <bezeichnung>Lernroboter</bezeichnung>
+    <kurs-codenr>C 1435-10-10</kurs-codenr>
+    <suchw>15309703</suchw>
+    <suchw>15309704</suchw>
+    <suchw>15309705</suchw>
+    <suchw>15309706</suchw>
+    <suchw>15309707</suchw>
+    <suchw>15309708</suchw>
+    <suchw>15309709</suchw>
   </kompmerkmal>
 </kompetenzen>
