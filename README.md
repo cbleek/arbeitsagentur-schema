@@ -19,5 +19,7 @@ die Sortierung geschieht per XSL. Unter Linux benötigt man das
 
 ## Usage
 
+```
 git clone https://github.com/cbleek/arbeitsagentur-schema/commit/9141393a9dceec573afc84af5723c2a31cde225d
 ./sort.sh
+```
