@@ -21,5 +21,13 @@ die Sortierung geschieht per XSL. Unter Linux benötigt man das
 
 ```
 git clone https://github.com/cbleek/arbeitsagentur-schema/commit/9141393a9dceec573afc84af5723c2a31cde225d
-./sort.sh
 ```
+
+Dann entpackt man eine aktuelle ZIP Datei aus der Dateischnittstelle
+https://hrbaxml.arbeitsagentur.de
+
+Danach ruft man das `./sort.sh` Shell skript auf. Es sorttiert die das XML
+nach id. Nach der Sportierung kann man dann der `git diff` erkennen was
+sich geändert hat.
+
+Letzer Stand: 120724_212451_dkz_vam_verbis_hrba.zip

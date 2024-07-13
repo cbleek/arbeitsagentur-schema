@@ -17,7 +17,6 @@
       <kompetenz idref="60112"/>
       <kompetenz idref="60113"/>
       <kompetenz idref="60114"/>
-      <kompetenz idref="60115"/>
       <kompetenz idref="60116"/>
       <kompetenz idref="60117"/>
       <kompetenz idref="60118"/>
@@ -31,6 +30,10 @@
       <kompetenz idref="60126"/>
       <kompetenz idref="60127"/>
       <kompetenz idref="60128"/>
+      <kompetenz idref="138118"/>
+      <kompetenz idref="138119"/>
+      <kompetenz idref="138120"/>
+      <kompetenz idref="134792"/>
     </ebene_2>
     <ebene_2 id="57351" schluessel="K 0003" bezeichnung="Gartenbau">
       <kompetenz idref="60129"/>
@@ -68,11 +71,13 @@
       <kompetenz idref="60161"/>
       <kompetenz idref="60162"/>
       <kompetenz idref="60163"/>
-      <kompetenz idref="60164"/>
       <kompetenz idref="60165"/>
       <kompetenz idref="60166"/>
       <kompetenz idref="60167"/>
       <kompetenz idref="60168"/>
+      <kompetenz idref="138121"/>
+      <kompetenz idref="138122"/>
+      <kompetenz idref="138123"/>
     </ebene_2>
     <ebene_2 id="59892" schluessel="K 0004" bezeichnung="Landwirtschaft">
       <kompetenz idref="60169"/>
@@ -104,6 +109,10 @@
       <kompetenz idref="60195"/>
       <kompetenz idref="60196"/>
       <kompetenz idref="133052"/>
+      <kompetenz idref="138124"/>
+      <kompetenz idref="138125"/>
+      <kompetenz idref="138126"/>
+      <kompetenz idref="138366"/>
     </ebene_2>
     <ebene_2 id="59893" schluessel="K 0005" bezeichnung="Landwirtschaftliche Tierhaltung, Tierzucht">
       <kompetenz idref="60197"/>
@@ -207,6 +216,7 @@
       <kompetenz idref="60285"/>
       <kompetenz idref="60286"/>
       <kompetenz idref="60287"/>
+      <kompetenz idref="138127"/>
     </ebene_2>
   </ebene_1>
   <ebene_1 id="57355" schluessel="K 01" bezeichnung="Produktion, Verarbeitung, Technik">
@@ -653,6 +663,8 @@
         <kompetenz idref="94489"/>
         <kompetenz idref="100628"/>
         <kompetenz idref="119431"/>
+        <kompetenz idref="138128"/>
+        <kompetenz idref="135852"/>
       </ebene_3>
       <ebene_3 id="57383" schluessel="K 010202" bezeichnung="Produktion, Fertigung">
         <kompetenz idref="67332"/>
@@ -726,6 +738,7 @@
         <kompetenz idref="60752"/>
         <kompetenz idref="97412"/>
         <kompetenz idref="119434"/>
+        <kompetenz idref="136128"/>
       </ebene_3>
       <ebene_3 id="57384" schluessel="K 010203" bezeichnung="Qualitätsmanagement, Qualitätssicherung">
         <kompetenz idref="69838"/>
@@ -749,6 +762,8 @@
         <kompetenz idref="131032"/>
         <kompetenz idref="131033"/>
         <kompetenz idref="130832"/>
+        <kompetenz idref="136129"/>
+        <kompetenz idref="136540"/>
       </ebene_3>
       <ebene_3 id="57385" schluessel="K 010204" bezeichnung="Technische, physikalische und chemische Untersuchung">
         <kompetenz idref="76855"/>
@@ -786,6 +801,9 @@
         <kompetenz idref="60792"/>
         <kompetenz idref="60793"/>
         <kompetenz idref="60794"/>
+        <kompetenz idref="63154"/>
+        <kompetenz idref="63163"/>
+        <kompetenz idref="64283"/>
         <kompetenz idref="93188"/>
         <kompetenz idref="119408"/>
         <kompetenz idref="123625"/>
@@ -793,12 +811,18 @@
         <kompetenz idref="133055"/>
         <kompetenz idref="133056"/>
         <kompetenz idref="133057"/>
+        <kompetenz idref="138129"/>
+        <kompetenz idref="138130"/>
+        <kompetenz idref="138131"/>
+        <kompetenz idref="138132"/>
+        <kompetenz idref="138133"/>
       </ebene_3>
       <ebene_3 id="57386" schluessel="K 010205" bezeichnung="Wartung, Instandhaltung, Kundendienst">
         <kompetenz idref="60795"/>
         <kompetenz idref="60796"/>
         <kompetenz idref="60797"/>
         <kompetenz idref="60798"/>
+        <kompetenz idref="138858"/>
       </ebene_3>
     </ebene_2>
     <ebene_2 id="57388" schluessel="K 0103" bezeichnung="Rohstoffgewinnung, -aufbereitung">
@@ -1321,6 +1345,8 @@
         <kompetenz idref="130973"/>
         <kompetenz idref="130974"/>
         <kompetenz idref="133059"/>
+        <kompetenz idref="136130"/>
+        <kompetenz idref="136131"/>
       </ebene_3>
       <ebene_3 id="57435" schluessel="K 010801" bezeichnung="Luft- und Raumfahrzeugbau">
         <kompetenz idref="61243"/>
@@ -1431,9 +1457,12 @@
         <kompetenz idref="61318"/>
         <kompetenz idref="61319"/>
         <kompetenz idref="61320"/>
-        <kompetenz idref="61321"/>
         <kompetenz idref="61322"/>
         <kompetenz idref="61323"/>
+        <kompetenz idref="138134"/>
+        <kompetenz idref="138135"/>
+        <kompetenz idref="138136"/>
+        <kompetenz idref="136132"/>
       </ebene_3>
       <ebene_3 id="59967" schluessel="K 010903" bezeichnung="Informations-, Telekommunikationstechnik">
         <kompetenz idref="77068"/>
@@ -1511,6 +1540,16 @@
         <kompetenz idref="133075"/>
         <kompetenz idref="133336"/>
         <kompetenz idref="133232"/>
+        <kompetenz idref="138137"/>
+        <kompetenz idref="138138"/>
+        <kompetenz idref="134472"/>
+        <kompetenz idref="134473"/>
+        <kompetenz idref="137658"/>
+        <kompetenz idref="137078"/>
+        <kompetenz idref="136133"/>
+        <kompetenz idref="136134"/>
+        <kompetenz idref="135853"/>
+        <kompetenz idref="135352"/>
       </ebene_3>
     </ebene_2>
     <ebene_2 id="59898" schluessel="K 0110" bezeichnung="Chemie, Pharmazie, Kunststoff">
@@ -1579,6 +1618,7 @@
         <kompetenz idref="61430"/>
         <kompetenz idref="61431"/>
         <kompetenz idref="67766"/>
+        <kompetenz idref="138139"/>
       </ebene_3>
       <ebene_3 id="59961" schluessel="K 011001" bezeichnung="Farben-, Lackherstellung">
         <kompetenz idref="61432"/>
@@ -1617,6 +1657,7 @@
         <kompetenz idref="61462"/>
         <kompetenz idref="61463"/>
         <kompetenz idref="61464"/>
+        <kompetenz idref="138140"/>
       </ebene_3>
       <ebene_3 id="59969" schluessel="K 011003" bezeichnung="Pharmazie">
         <kompetenz idref="61465"/>
@@ -1679,6 +1720,7 @@
         <kompetenz idref="61515"/>
         <kompetenz idref="61516"/>
         <kompetenz idref="67775"/>
+        <kompetenz idref="138998"/>
       </ebene_3>
       <ebene_3 id="59971" schluessel="K 011101" bezeichnung="Galvanik, Oberflächenveredlung, Wärmebehandlung">
         <kompetenz idref="61517"/>
@@ -1885,6 +1927,8 @@
         <kompetenz idref="126860"/>
         <kompetenz idref="131193"/>
         <kompetenz idref="132472"/>
+        <kompetenz idref="138141"/>
+        <kompetenz idref="138859"/>
       </ebene_3>
       <ebene_3 id="59976" schluessel="K 011106" bezeichnung="Schmiedeverfahren, -techniken">
         <kompetenz idref="61697"/>
@@ -1953,7 +1997,6 @@
         <kompetenz idref="132192"/>
       </ebene_3>
       <ebene_3 id="59978" schluessel="K 011108" bezeichnung="Versorgung, Installation">
-        <kompetenz idref="69792"/>
         <kompetenz idref="62072"/>
         <kompetenz idref="61751"/>
         <kompetenz idref="61752"/>
@@ -1976,6 +2019,16 @@
         <kompetenz idref="61769"/>
         <kompetenz idref="61770"/>
         <kompetenz idref="61771"/>
+        <kompetenz idref="138142"/>
+        <kompetenz idref="138143"/>
+        <kompetenz idref="138144"/>
+        <kompetenz idref="138145"/>
+        <kompetenz idref="138146"/>
+        <kompetenz idref="138147"/>
+        <kompetenz idref="138148"/>
+        <kompetenz idref="138149"/>
+        <kompetenz idref="138150"/>
+        <kompetenz idref="138151"/>
       </ebene_3>
       <ebene_3 id="59979" schluessel="K 011109" bezeichnung="Zerspanungstechnische Verfahren">
         <kompetenz idref="76828"/>
@@ -2111,6 +2164,8 @@
       <kompetenz idref="61891"/>
       <kompetenz idref="61892"/>
       <kompetenz idref="61893"/>
+      <kompetenz idref="138152"/>
+      <kompetenz idref="135632"/>
     </ebene_2>
     <ebene_2 id="59900" schluessel="K 0202" bezeichnung="Vermessung">
       <kompetenz idref="61894"/>
@@ -2127,6 +2182,7 @@
       <kompetenz idref="61905"/>
       <kompetenz idref="61906"/>
       <kompetenz idref="61907"/>
+      <kompetenz idref="136135"/>
     </ebene_2>
     <ebene_2 id="59901" schluessel="K 0203" bezeichnung="Straßenbau, Gleisbau">
       <kompetenz idref="61908"/>
@@ -2161,11 +2217,12 @@
       <kompetenz idref="61935"/>
       <kompetenz idref="61936"/>
       <kompetenz idref="61937"/>
-      <kompetenz idref="61938"/>
       <kompetenz idref="61939"/>
       <kompetenz idref="61940"/>
       <kompetenz idref="61941"/>
       <kompetenz idref="61942"/>
+      <kompetenz idref="138153"/>
+      <kompetenz idref="138154"/>
     </ebene_2>
     <ebene_2 id="59903" schluessel="K 0205" bezeichnung="Gerüstbau, Baustellenvorbereitung, Sprengungen">
       <kompetenz idref="61943"/>
@@ -2210,6 +2267,7 @@
       <kompetenz idref="61982"/>
       <kompetenz idref="61983"/>
       <kompetenz idref="61984"/>
+      <kompetenz idref="138155"/>
     </ebene_2>
     <ebene_2 id="59905" schluessel="K 0207" bezeichnung="Dachdeckerei, Zimmerei, Bautischlerei">
       <kompetenz idref="73928"/>
@@ -2241,6 +2299,7 @@
       <kompetenz idref="62010"/>
       <kompetenz idref="62011"/>
       <kompetenz idref="67774"/>
+      <kompetenz idref="138156"/>
     </ebene_2>
     <ebene_2 id="59906" schluessel="K 0208" bezeichnung="Baubetrieb, Bauabrechnung">
       <kompetenz idref="62012"/>
@@ -2250,6 +2309,7 @@
       <kompetenz idref="62016"/>
       <kompetenz idref="62017"/>
       <kompetenz idref="62018"/>
+      <kompetenz idref="136136"/>
     </ebene_2>
     <ebene_2 id="59907" schluessel="K 0209" bezeichnung="Architektur, Bauplanung, Bausachverständigenwesen">
       <kompetenz idref="74129"/>
@@ -2290,6 +2350,29 @@
       <kompetenz idref="126668"/>
       <kompetenz idref="130992"/>
       <kompetenz idref="130798"/>
+      <kompetenz idref="133776"/>
+      <kompetenz idref="134313"/>
+      <kompetenz idref="138157"/>
+      <kompetenz idref="138158"/>
+      <kompetenz idref="138159"/>
+      <kompetenz idref="138160"/>
+      <kompetenz idref="138161"/>
+      <kompetenz idref="138162"/>
+      <kompetenz idref="138163"/>
+      <kompetenz idref="138164"/>
+      <kompetenz idref="138165"/>
+      <kompetenz idref="138166"/>
+      <kompetenz idref="138167"/>
+      <kompetenz idref="138168"/>
+      <kompetenz idref="138169"/>
+      <kompetenz idref="138170"/>
+      <kompetenz idref="138171"/>
+      <kompetenz idref="138172"/>
+      <kompetenz idref="138173"/>
+      <kompetenz idref="138174"/>
+      <kompetenz idref="138918"/>
+      <kompetenz idref="138498"/>
+      <kompetenz idref="134972"/>
     </ebene_2>
     <ebene_2 id="59908" schluessel="K 0210" bezeichnung="Hochbau, Beton- u. Stahlbetonbau, Feuerung.-/Schornsteinbau">
       <kompetenz idref="76491"/>
@@ -2336,6 +2419,8 @@
       <kompetenz idref="62092"/>
       <kompetenz idref="62093"/>
       <kompetenz idref="70134"/>
+      <kompetenz idref="138175"/>
+      <kompetenz idref="138176"/>
     </ebene_2>
   </ebene_1>
   <ebene_1 id="57459" schluessel="K 03" bezeichnung="Wirtschaft, Verwaltung">
@@ -2422,6 +2507,8 @@
         <kompetenz idref="62163"/>
         <kompetenz idref="90175"/>
         <kompetenz idref="126573"/>
+        <kompetenz idref="138919"/>
+        <kompetenz idref="134672"/>
       </ebene_3>
       <ebene_3 id="57463" schluessel="K 030002" bezeichnung="Versicherungen">
         <kompetenz idref="62164"/>
@@ -2470,6 +2557,9 @@
         <kompetenz idref="62203"/>
         <kompetenz idref="62204"/>
         <kompetenz idref="119688"/>
+        <kompetenz idref="138177"/>
+        <kompetenz idref="134793"/>
+        <kompetenz idref="136598"/>
       </ebene_3>
       <ebene_3 id="57480" schluessel="K 030101" bezeichnung="Groß-, Außenhandel">
         <kompetenz idref="62205"/>
@@ -2530,6 +2620,8 @@
         <kompetenz idref="124485"/>
         <kompetenz idref="130258"/>
         <kompetenz idref="130799"/>
+        <kompetenz idref="134572"/>
+        <kompetenz idref="138398"/>
       </ebene_3>
       <ebene_3 id="59980" schluessel="K 030202" bezeichnung="Kalkulation">
         <kompetenz idref="62251"/>
@@ -2590,8 +2682,21 @@
         <kompetenz idref="133085"/>
         <kompetenz idref="133086"/>
         <kompetenz idref="133087"/>
+        <kompetenz idref="134393"/>
         <kompetenz idref="132473"/>
         <kompetenz idref="133453"/>
+        <kompetenz idref="138638"/>
+        <kompetenz idref="139158"/>
+        <kompetenz idref="138438"/>
+        <kompetenz idref="137378"/>
+        <kompetenz idref="137659"/>
+        <kompetenz idref="137758"/>
+        <kompetenz idref="134732"/>
+        <kompetenz idref="134733"/>
+        <kompetenz idref="134734"/>
+        <kompetenz idref="137079"/>
+        <kompetenz idref="136137"/>
+        <kompetenz idref="136138"/>
       </ebene_3>
       <ebene_3 id="59982" schluessel="K 030204" bezeichnung="Organisation, Planung, Controlling">
         <kompetenz idref="73517"/>
@@ -2607,6 +2712,7 @@
         <kompetenz idref="62292"/>
         <kompetenz idref="130752"/>
         <kompetenz idref="132052"/>
+        <kompetenz idref="137080"/>
       </ebene_3>
       <ebene_3 id="59983" schluessel="K 030205" bezeichnung="Personalwesen, Personaldienstleistungen">
         <kompetenz idref="62293"/>
@@ -2626,6 +2732,10 @@
         <kompetenz idref="130181"/>
         <kompetenz idref="130927"/>
         <kompetenz idref="130993"/>
+        <kompetenz idref="134735"/>
+        <kompetenz idref="134736"/>
+        <kompetenz idref="136378"/>
+        <kompetenz idref="137258"/>
       </ebene_3>
       <ebene_3 id="59984" schluessel="K 030206" bezeichnung="Sachbearbeitung, allgemeine Bürotätigkeiten">
         <kompetenz idref="76834"/>
@@ -2667,6 +2777,7 @@
         <kompetenz idref="62341"/>
         <kompetenz idref="130259"/>
         <kompetenz idref="133088"/>
+        <kompetenz idref="136599"/>
       </ebene_3>
     </ebene_2>
     <ebene_2 id="59909" schluessel="K 0303" bezeichnung="Management, Beratung, Recht, Steuern">
@@ -2735,6 +2846,15 @@
         <kompetenz idref="133089"/>
         <kompetenz idref="132592"/>
         <kompetenz idref="132193"/>
+        <kompetenz idref="138658"/>
+        <kompetenz idref="138518"/>
+        <kompetenz idref="138098"/>
+        <kompetenz idref="138860"/>
+        <kompetenz idref="138439"/>
+        <kompetenz idref="138338"/>
+        <kompetenz idref="137660"/>
+        <kompetenz idref="137178"/>
+        <kompetenz idref="137179"/>
       </ebene_3>
       <ebene_3 id="59986" schluessel="K 030301" bezeichnung="Markt-, Meinungsforschung">
         <kompetenz idref="62384"/>
@@ -2856,7 +2976,6 @@
         <kompetenz idref="62492"/>
         <kompetenz idref="62493"/>
         <kompetenz idref="62494"/>
-        <kompetenz idref="62495"/>
         <kompetenz idref="62496"/>
         <kompetenz idref="62497"/>
         <kompetenz idref="62498"/>
@@ -2891,6 +3010,21 @@
         <kompetenz idref="130028"/>
         <kompetenz idref="130125"/>
         <kompetenz idref="130928"/>
+        <kompetenz idref="138178"/>
+        <kompetenz idref="138179"/>
+        <kompetenz idref="138180"/>
+        <kompetenz idref="138181"/>
+        <kompetenz idref="138182"/>
+        <kompetenz idref="138183"/>
+        <kompetenz idref="138184"/>
+        <kompetenz idref="134673"/>
+        <kompetenz idref="138861"/>
+        <kompetenz idref="138399"/>
+        <kompetenz idref="137379"/>
+        <kompetenz idref="134737"/>
+        <kompetenz idref="135432"/>
+        <kompetenz idref="135854"/>
+        <kompetenz idref="134973"/>
       </ebene_3>
       <ebene_3 id="59989" schluessel="K 030304" bezeichnung="Steuerberatung, Wirtschaftsprüfung">
         <kompetenz idref="73983"/>
@@ -2971,6 +3105,8 @@
         <kompetenz idref="133093"/>
         <kompetenz idref="132053"/>
         <kompetenz idref="132412"/>
+        <kompetenz idref="138339"/>
+        <kompetenz idref="137380"/>
       </ebene_3>
       <ebene_3 id="59991" schluessel="K 030401" bezeichnung="Sicherheit, Brandschutz, Verteidigung">
         <kompetenz idref="62577"/>
@@ -2998,6 +3134,8 @@
         <kompetenz idref="62599"/>
         <kompetenz idref="62600"/>
         <kompetenz idref="62601"/>
+        <kompetenz idref="138758"/>
+        <kompetenz idref="135692"/>
       </ebene_3>
     </ebene_2>
     <ebene_2 id="59911" schluessel="K 0305" bezeichnung="Werbung, Public Relations (PR)">
@@ -3118,6 +3256,14 @@
       <kompetenz idref="133094"/>
       <kompetenz idref="133095"/>
       <kompetenz idref="133233"/>
+      <kompetenz idref="134394"/>
+      <kompetenz idref="135942"/>
+      <kompetenz idref="135752"/>
+      <kompetenz idref="135433"/>
+      <kompetenz idref="135434"/>
+      <kompetenz idref="135855"/>
+      <kompetenz idref="135856"/>
+      <kompetenz idref="135353"/>
     </ebene_2>
     <ebene_2 id="57500" schluessel="K 0401" bezeichnung="Straßenverkehr">
       <kompetenz idref="62701"/>
@@ -3157,6 +3303,8 @@
       <kompetenz idref="62735"/>
       <kompetenz idref="62736"/>
       <kompetenz idref="133096"/>
+      <kompetenz idref="138185"/>
+      <kompetenz idref="136178"/>
     </ebene_2>
     <ebene_2 id="57504" schluessel="K 0402" bezeichnung="Schifffahrt">
       <kompetenz idref="62737"/>
@@ -3270,6 +3418,9 @@
       <kompetenz idref="62837"/>
       <kompetenz idref="62838"/>
       <kompetenz idref="62839"/>
+      <kompetenz idref="133672"/>
+      <kompetenz idref="138639"/>
+      <kompetenz idref="136379"/>
     </ebene_2>
   </ebene_1>
   <ebene_1 id="57512" schluessel="K 05" bezeichnung="Hotel, Gaststätten, Tourismus">
@@ -3321,6 +3472,7 @@
       <kompetenz idref="62873"/>
       <kompetenz idref="123735"/>
       <kompetenz idref="124486"/>
+      <kompetenz idref="134674"/>
     </ebene_2>
     <ebene_2 id="57524" schluessel="K 0502" bezeichnung="Regionale und internationale Küche">
       <kompetenz idref="62881"/>
@@ -3383,6 +3535,9 @@
       <kompetenz idref="93251"/>
       <kompetenz idref="131035"/>
       <kompetenz idref="132612"/>
+      <kompetenz idref="138920"/>
+      <kompetenz idref="134794"/>
+      <kompetenz idref="137081"/>
     </ebene_2>
     <ebene_2 id="57533" schluessel="K 0503" bezeichnung="Tourismus">
       <kompetenz idref="62937"/>
@@ -3410,6 +3565,8 @@
       <kompetenz idref="62959"/>
       <kompetenz idref="62960"/>
       <kompetenz idref="130195"/>
+      <kompetenz idref="138186"/>
+      <kompetenz idref="138187"/>
     </ebene_2>
     <ebene_2 id="57549" schluessel="K 0504" bezeichnung="Gastronomie - Service">
       <kompetenz idref="62961"/>
@@ -3466,6 +3623,12 @@
       <kompetenz idref="63003"/>
       <kompetenz idref="63004"/>
       <kompetenz idref="133098"/>
+      <kompetenz idref="138188"/>
+      <kompetenz idref="138189"/>
+      <kompetenz idref="138190"/>
+      <kompetenz idref="138191"/>
+      <kompetenz idref="138192"/>
+      <kompetenz idref="138193"/>
     </ebene_2>
     <ebene_2 id="57562" schluessel="K 0602" bezeichnung="Wach- und Sicherheitsdienste">
       <kompetenz idref="63005"/>
@@ -3517,6 +3680,10 @@
       <kompetenz idref="63048"/>
       <kompetenz idref="63049"/>
       <kompetenz idref="63050"/>
+      <kompetenz idref="138194"/>
+      <kompetenz idref="138195"/>
+      <kompetenz idref="138196"/>
+      <kompetenz idref="138197"/>
     </ebene_2>
     <ebene_2 id="59915" schluessel="K 0604" bezeichnung="Übersetzungs-, Dolmetscherdienste">
       <kompetenz idref="74158"/>
@@ -3537,6 +3704,7 @@
       <kompetenz idref="63065"/>
       <kompetenz idref="63066"/>
       <kompetenz idref="63067"/>
+      <kompetenz idref="138862"/>
     </ebene_2>
     <ebene_2 id="59916" schluessel="K 0605" bezeichnung="Reinigungsdienste">
       <kompetenz idref="63068"/>
@@ -3588,6 +3756,7 @@
       <kompetenz idref="63114"/>
       <kompetenz idref="63115"/>
       <kompetenz idref="129266"/>
+      <kompetenz idref="137381"/>
     </ebene_2>
     <ebene_2 id="59917" schluessel="K 0606" bezeichnung="Messe-, Kongress-, Tagungswirtschaft">
       <kompetenz idref="63116"/>
@@ -3634,16 +3803,11 @@
       <kompetenz idref="63151"/>
       <kompetenz idref="63152"/>
       <kompetenz idref="63153"/>
-      <kompetenz idref="63154"/>
       <kompetenz idref="63155"/>
-      <kompetenz idref="63156"/>
       <kompetenz idref="63157"/>
       <kompetenz idref="63158"/>
-      <kompetenz idref="63159"/>
       <kompetenz idref="63160"/>
       <kompetenz idref="63161"/>
-      <kompetenz idref="63162"/>
-      <kompetenz idref="63163"/>
       <kompetenz idref="63164"/>
       <kompetenz idref="63165"/>
       <kompetenz idref="63166"/>
@@ -3654,11 +3818,32 @@
       <kompetenz idref="63171"/>
       <kompetenz idref="63172"/>
       <kompetenz idref="63173"/>
-      <kompetenz idref="63174"/>
       <kompetenz idref="63175"/>
+      <kompetenz idref="138198"/>
+      <kompetenz idref="138199"/>
+      <kompetenz idref="138200"/>
+      <kompetenz idref="138201"/>
+      <kompetenz idref="138202"/>
+      <kompetenz idref="138203"/>
+      <kompetenz idref="138204"/>
+      <kompetenz idref="138205"/>
+      <kompetenz idref="138206"/>
+      <kompetenz idref="138207"/>
+      <kompetenz idref="138208"/>
+      <kompetenz idref="138209"/>
+      <kompetenz idref="138210"/>
+      <kompetenz idref="138211"/>
+      <kompetenz idref="138212"/>
+      <kompetenz idref="138213"/>
+      <kompetenz idref="138214"/>
+      <kompetenz idref="138367"/>
+      <kompetenz idref="138999"/>
+      <kompetenz idref="134738"/>
+      <kompetenz idref="136139"/>
     </ebene_2>
     <ebene_2 id="59921" schluessel="K 0610" bezeichnung="Energieversorgung">
       <kompetenz idref="74130"/>
+      <kompetenz idref="63162"/>
       <kompetenz idref="63176"/>
       <kompetenz idref="63177"/>
       <kompetenz idref="63178"/>
@@ -3676,6 +3861,68 @@
       <kompetenz idref="133099"/>
       <kompetenz idref="133100"/>
       <kompetenz idref="132413"/>
+      <kompetenz idref="134272"/>
+      <kompetenz idref="138215"/>
+      <kompetenz idref="138216"/>
+      <kompetenz idref="138217"/>
+      <kompetenz idref="138218"/>
+      <kompetenz idref="138219"/>
+      <kompetenz idref="138220"/>
+      <kompetenz idref="138221"/>
+      <kompetenz idref="138222"/>
+      <kompetenz idref="138223"/>
+      <kompetenz idref="138224"/>
+      <kompetenz idref="138225"/>
+      <kompetenz idref="138226"/>
+      <kompetenz idref="138227"/>
+      <kompetenz idref="138228"/>
+      <kompetenz idref="138229"/>
+      <kompetenz idref="138230"/>
+      <kompetenz idref="138231"/>
+      <kompetenz idref="138232"/>
+      <kompetenz idref="138233"/>
+      <kompetenz idref="138234"/>
+      <kompetenz idref="138235"/>
+      <kompetenz idref="138236"/>
+      <kompetenz idref="138237"/>
+      <kompetenz idref="138238"/>
+      <kompetenz idref="138239"/>
+      <kompetenz idref="138240"/>
+      <kompetenz idref="138241"/>
+      <kompetenz idref="138242"/>
+      <kompetenz idref="138243"/>
+      <kompetenz idref="138244"/>
+      <kompetenz idref="138245"/>
+      <kompetenz idref="138246"/>
+      <kompetenz idref="138247"/>
+      <kompetenz idref="138248"/>
+      <kompetenz idref="138249"/>
+      <kompetenz idref="138250"/>
+      <kompetenz idref="138251"/>
+      <kompetenz idref="138252"/>
+      <kompetenz idref="138253"/>
+      <kompetenz idref="138254"/>
+      <kompetenz idref="138255"/>
+      <kompetenz idref="138256"/>
+      <kompetenz idref="138257"/>
+      <kompetenz idref="138258"/>
+      <kompetenz idref="138259"/>
+      <kompetenz idref="138260"/>
+      <kompetenz idref="138261"/>
+      <kompetenz idref="138262"/>
+      <kompetenz idref="138263"/>
+      <kompetenz idref="138264"/>
+      <kompetenz idref="138265"/>
+      <kompetenz idref="138266"/>
+      <kompetenz idref="138267"/>
+      <kompetenz idref="138268"/>
+      <kompetenz idref="138269"/>
+      <kompetenz idref="138368"/>
+      <kompetenz idref="138440"/>
+      <kompetenz idref="138400"/>
+      <kompetenz idref="134872"/>
+      <kompetenz idref="135753"/>
+      <kompetenz idref="137082"/>
     </ebene_2>
   </ebene_1>
   <ebene_1 id="57569" schluessel="K 07" bezeichnung="IT, DV, Computer">
@@ -3740,8 +3987,30 @@
       <kompetenz idref="133104"/>
       <kompetenz idref="133105"/>
       <kompetenz idref="133106"/>
+      <kompetenz idref="134395"/>
+      <kompetenz idref="134314"/>
       <kompetenz idref="133454"/>
       <kompetenz idref="133455"/>
+      <kompetenz idref="139159"/>
+      <kompetenz idref="134675"/>
+      <kompetenz idref="134676"/>
+      <kompetenz idref="138099"/>
+      <kompetenz idref="138340"/>
+      <kompetenz idref="138341"/>
+      <kompetenz idref="136179"/>
+      <kompetenz idref="137083"/>
+      <kompetenz idref="136140"/>
+      <kompetenz idref="136141"/>
+      <kompetenz idref="136142"/>
+      <kompetenz idref="134492"/>
+      <kompetenz idref="136238"/>
+      <kompetenz idref="135857"/>
+      <kompetenz idref="135858"/>
+      <kompetenz idref="135354"/>
+      <kompetenz idref="135355"/>
+      <kompetenz idref="135356"/>
+      <kompetenz idref="136542"/>
+      <kompetenz idref="137018"/>
     </ebene_2>
     <ebene_2 id="57571" schluessel="K 0701" bezeichnung="Software - technische Anwendungsgebiete">
       <ebene_3 id="59995" schluessel="K 070100" bezeichnung="CAD-/CAM-Anwendungen">
@@ -3873,6 +4142,9 @@
         <kompetenz idref="130754"/>
         <kompetenz idref="130755"/>
         <kompetenz idref="133273"/>
+        <kompetenz idref="134739"/>
+        <kompetenz idref="136600"/>
+        <kompetenz idref="137458"/>
       </ebene_3>
       <ebene_3 id="59996" schluessel="K 070101" bezeichnung="CNC-, NC-Programme">
         <kompetenz idref="89168"/>
@@ -3894,6 +4166,7 @@
         <kompetenz idref="123706"/>
         <kompetenz idref="130260"/>
         <kompetenz idref="132613"/>
+        <kompetenz idref="138863"/>
       </ebene_3>
       <ebene_3 id="59997" schluessel="K 070102" bezeichnung="Engineering- und Entwicklungssysteme">
         <kompetenz idref="77069"/>
@@ -3976,6 +4249,11 @@
         <kompetenz idref="133109"/>
         <kompetenz idref="133110"/>
         <kompetenz idref="133111"/>
+        <kompetenz idref="133492"/>
+        <kompetenz idref="135943"/>
+        <kompetenz idref="136143"/>
+        <kompetenz idref="136144"/>
+        <kompetenz idref="136145"/>
       </ebene_3>
       <ebene_3 id="59998" schluessel="K 070103" bezeichnung="Geoinformationssysteme, Kartografie-, Vermessungssoftware">
         <kompetenz idref="73512"/>
@@ -4003,6 +4281,7 @@
         <kompetenz idref="130196"/>
         <kompetenz idref="130030"/>
         <kompetenz idref="133112"/>
+        <kompetenz idref="135633"/>
       </ebene_3>
       <ebene_3 id="59999" schluessel="K 070104" bezeichnung="Grafik-, Bildbearbeitungs-, DTP-, Multimediasoftware">
         <kompetenz idref="73797"/>
@@ -4089,6 +4368,10 @@
         <kompetenz idref="130836"/>
         <kompetenz idref="133234"/>
         <kompetenz idref="133456"/>
+        <kompetenz idref="133673"/>
+        <kompetenz idref="134795"/>
+        <kompetenz idref="134974"/>
+        <kompetenz idref="134975"/>
       </ebene_3>
       <ebene_3 id="60000" schluessel="K 070105" bezeichnung="HTML-Editoren, Webdesign- und Webcontentsoftware, Browser">
         <kompetenz idref="76715"/>
@@ -4133,6 +4416,11 @@
         <kompetenz idref="133113"/>
         <kompetenz idref="133114"/>
         <kompetenz idref="133115"/>
+        <kompetenz idref="133732"/>
+        <kompetenz idref="134474"/>
+        <kompetenz idref="137298"/>
+        <kompetenz idref="137299"/>
+        <kompetenz idref="136146"/>
       </ebene_3>
       <ebene_3 id="60001" schluessel="K 070106" bezeichnung="Sonstige Software - technische Anwendungsgebiete">
         <kompetenz idref="73930"/>
@@ -4177,9 +4465,18 @@
         <kompetenz idref="126869"/>
         <kompetenz idref="130979"/>
         <kompetenz idref="130980"/>
+        <kompetenz idref="134213"/>
         <kompetenz idref="133116"/>
         <kompetenz idref="133117"/>
         <kompetenz idref="133118"/>
+        <kompetenz idref="134315"/>
+        <kompetenz idref="134316"/>
+        <kompetenz idref="138270"/>
+        <kompetenz idref="138640"/>
+        <kompetenz idref="135435"/>
+        <kompetenz idref="137084"/>
+        <kompetenz idref="136147"/>
+        <kompetenz idref="136148"/>
       </ebene_3>
       <ebene_3 id="60002" schluessel="K 070107" bezeichnung="Speicherprogrammierbare Steuerungen (SPS-Software)">
         <kompetenz idref="73631"/>
@@ -4313,7 +4610,25 @@
       <kompetenz idref="133121"/>
       <kompetenz idref="133122"/>
       <kompetenz idref="133123"/>
+      <kompetenz idref="134396"/>
       <kompetenz idref="132432"/>
+      <kompetenz idref="134317"/>
+      <kompetenz idref="133633"/>
+      <kompetenz idref="134475"/>
+      <kompetenz idref="134677"/>
+      <kompetenz idref="134678"/>
+      <kompetenz idref="138100"/>
+      <kompetenz idref="138101"/>
+      <kompetenz idref="139000"/>
+      <kompetenz idref="137661"/>
+      <kompetenz idref="136380"/>
+      <kompetenz idref="135634"/>
+      <kompetenz idref="137698"/>
+      <kompetenz idref="135693"/>
+      <kompetenz idref="136149"/>
+      <kompetenz idref="136150"/>
+      <kompetenz idref="136151"/>
+      <kompetenz idref="136239"/>
     </ebene_2>
     <ebene_2 id="57573" schluessel="K 0703" bezeichnung="Softwareentwicklung, Programmierung">
       <kompetenz idref="76934"/>
@@ -4408,6 +4723,14 @@
       <kompetenz idref="133133"/>
       <kompetenz idref="133134"/>
       <kompetenz idref="133135"/>
+      <kompetenz idref="134573"/>
+      <kompetenz idref="138921"/>
+      <kompetenz idref="137699"/>
+      <kompetenz idref="137700"/>
+      <kompetenz idref="137701"/>
+      <kompetenz idref="136152"/>
+      <kompetenz idref="136153"/>
+      <kompetenz idref="134976"/>
     </ebene_2>
     <ebene_2 id="57574" schluessel="K 0704" bezeichnung="Software - kaufmännische Anwendungsgebiete">
       <ebene_3 id="60004" schluessel="K 070400" bezeichnung="Bauabwicklungssoftware (Ausschreibung, Vergabe)">
@@ -4554,9 +4877,28 @@
         <kompetenz idref="133137"/>
         <kompetenz idref="133138"/>
         <kompetenz idref="133139"/>
+        <kompetenz idref="134397"/>
+        <kompetenz idref="133733"/>
         <kompetenz idref="132433"/>
         <kompetenz idref="132693"/>
+        <kompetenz idref="133493"/>
         <kompetenz idref="133014"/>
+        <kompetenz idref="133674"/>
+        <kompetenz idref="139078"/>
+        <kompetenz idref="138641"/>
+        <kompetenz idref="138401"/>
+        <kompetenz idref="137085"/>
+        <kompetenz idref="137086"/>
+        <kompetenz idref="137087"/>
+        <kompetenz idref="137088"/>
+        <kompetenz idref="135635"/>
+        <kompetenz idref="136154"/>
+        <kompetenz idref="136155"/>
+        <kompetenz idref="136156"/>
+        <kompetenz idref="135859"/>
+        <kompetenz idref="135860"/>
+        <kompetenz idref="135861"/>
+        <kompetenz idref="137019"/>
       </ebene_3>
       <ebene_3 id="60006" schluessel="K 070402" bezeichnung="Bürokommunikation, MS-Office">
         <kompetenz idref="73871"/>
@@ -4593,7 +4935,9 @@
         <kompetenz idref="130034"/>
         <kompetenz idref="133140"/>
         <kompetenz idref="133235"/>
+        <kompetenz idref="134398"/>
         <kompetenz idref="132474"/>
+        <kompetenz idref="136381"/>
       </ebene_3>
       <ebene_3 id="60007" schluessel="K 070403" bezeichnung="Gesundheitsverwaltungs- und Praxissoftware">
         <kompetenz idref="77084"/>
@@ -4632,6 +4976,12 @@
         <kompetenz idref="119448"/>
         <kompetenz idref="126812"/>
         <kompetenz idref="129386"/>
+        <kompetenz idref="137382"/>
+        <kompetenz idref="134796"/>
+        <kompetenz idref="134873"/>
+        <kompetenz idref="137089"/>
+        <kompetenz idref="137459"/>
+        <kompetenz idref="137180"/>
       </ebene_3>
       <ebene_3 id="60008" schluessel="K 070404" bezeichnung="Immobilienmanagement-Software">
         <kompetenz idref="73638"/>
@@ -4648,6 +4998,7 @@
         <kompetenz idref="63667"/>
         <kompetenz idref="63668"/>
         <kompetenz idref="70131"/>
+        <kompetenz idref="135636"/>
       </ebene_3>
       <ebene_3 id="60009" schluessel="K 070405" bezeichnung="Kanzlei-, Justizverwaltungssoftware">
         <kompetenz idref="73933"/>
@@ -4673,6 +5024,7 @@
         <kompetenz idref="67764"/>
         <kompetenz idref="67768"/>
         <kompetenz idref="133141"/>
+        <kompetenz idref="138642"/>
       </ebene_3>
       <ebene_3 id="60010" schluessel="K 070406" bezeichnung="Personalverwaltungs- und -abrechnungssoftware">
         <kompetenz idref="73640"/>
@@ -4697,6 +5049,8 @@
         <kompetenz idref="94473"/>
         <kompetenz idref="133142"/>
         <kompetenz idref="133143"/>
+        <kompetenz idref="137598"/>
+        <kompetenz idref="136601"/>
       </ebene_3>
       <ebene_3 id="60011" schluessel="K 070407" bezeichnung="Reiseinformations-, Reservierungs- und Gastronomiesysteme">
         <kompetenz idref="76512"/>
@@ -4727,6 +5081,8 @@
         <kompetenz idref="130762"/>
         <kompetenz idref="133144"/>
         <kompetenz idref="133274"/>
+        <kompetenz idref="133675"/>
+        <kompetenz idref="137702"/>
       </ebene_3>
       <ebene_3 id="60012" schluessel="K 070408" bezeichnung="Sonstige Software - kaufmännische Anwendungsgebiete">
         <kompetenz idref="76713"/>
@@ -4794,9 +5150,17 @@
         <kompetenz idref="133145"/>
         <kompetenz idref="133146"/>
         <kompetenz idref="133147"/>
+        <kompetenz idref="134399"/>
+        <kompetenz idref="133734"/>
         <kompetenz idref="132434"/>
         <kompetenz idref="133015"/>
         <kompetenz idref="133275"/>
+        <kompetenz idref="139001"/>
+        <kompetenz idref="134797"/>
+        <kompetenz idref="134798"/>
+        <kompetenz idref="134799"/>
+        <kompetenz idref="134800"/>
+        <kompetenz idref="135694"/>
       </ebene_3>
     </ebene_2>
     <ebene_2 id="57575" schluessel="K 0705" bezeichnung="Programmiersprachen, Programmbibl., Entwicklungsumgebungen">
@@ -4985,6 +5349,39 @@
       <kompetenz idref="132593"/>
       <kompetenz idref="132694"/>
       <kompetenz idref="133016"/>
+      <kompetenz idref="134476"/>
+      <kompetenz idref="137599"/>
+      <kompetenz idref="138342"/>
+      <kompetenz idref="138343"/>
+      <kompetenz idref="138344"/>
+      <kompetenz idref="138345"/>
+      <kompetenz idref="138346"/>
+      <kompetenz idref="138347"/>
+      <kompetenz idref="138402"/>
+      <kompetenz idref="138403"/>
+      <kompetenz idref="137300"/>
+      <kompetenz idref="137301"/>
+      <kompetenz idref="137302"/>
+      <kompetenz idref="137303"/>
+      <kompetenz idref="136382"/>
+      <kompetenz idref="136383"/>
+      <kompetenz idref="137090"/>
+      <kompetenz idref="137091"/>
+      <kompetenz idref="137092"/>
+      <kompetenz idref="137093"/>
+      <kompetenz idref="137094"/>
+      <kompetenz idref="135637"/>
+      <kompetenz idref="137703"/>
+      <kompetenz idref="137704"/>
+      <kompetenz idref="136157"/>
+      <kompetenz idref="136158"/>
+      <kompetenz idref="136159"/>
+      <kompetenz idref="136160"/>
+      <kompetenz idref="137460"/>
+      <kompetenz idref="136240"/>
+      <kompetenz idref="135862"/>
+      <kompetenz idref="135863"/>
+      <kompetenz idref="135864"/>
     </ebene_2>
     <ebene_2 id="57576" schluessel="K 0706" bezeichnung="Netzwerkzertifizierungen">
       <kompetenz idref="63838"/>
@@ -5064,6 +5461,11 @@
       <kompetenz idref="126861"/>
       <kompetenz idref="132614"/>
       <kompetenz idref="132132"/>
+      <kompetenz idref="139079"/>
+      <kompetenz idref="138864"/>
+      <kompetenz idref="138865"/>
+      <kompetenz idref="138866"/>
+      <kompetenz idref="136161"/>
     </ebene_2>
     <ebene_2 id="57578" schluessel="K 0708" bezeichnung="Netzprotokolle">
       <kompetenz idref="76931"/>
@@ -5091,6 +5493,9 @@
       <kompetenz idref="93428"/>
       <kompetenz idref="90089"/>
       <kompetenz idref="90091"/>
+      <kompetenz idref="139160"/>
+      <kompetenz idref="138348"/>
+      <kompetenz idref="136162"/>
     </ebene_2>
     <ebene_2 id="59922" schluessel="K 0709" bezeichnung="IT-Zertifikate">
       <kompetenz idref="73801"/>
@@ -5175,8 +5580,13 @@
       <kompetenz idref="122256"/>
       <kompetenz idref="128436"/>
       <kompetenz idref="130199"/>
+      <kompetenz idref="134400"/>
+      <kompetenz idref="137600"/>
+      <kompetenz idref="138867"/>
+      <kompetenz idref="135436"/>
+      <kompetenz idref="135865"/>
     </ebene_2>
-    <ebene_2 id="59924" schluessel="K 0711" bezeichnung="Spezielle Informatikgebiete">
+    <ebene_2 id="59924" schluessel="K 0711" bezeichnung="Informatikgebiete">
       <kompetenz idref="76523"/>
       <kompetenz idref="76939"/>
       <kompetenz idref="63966"/>
@@ -5196,6 +5606,9 @@
       <kompetenz idref="133148"/>
       <kompetenz idref="133149"/>
       <kompetenz idref="133150"/>
+      <kompetenz idref="137383"/>
+      <kompetenz idref="137095"/>
+      <kompetenz idref="137096"/>
     </ebene_2>
   </ebene_1>
   <ebene_1 id="57579" schluessel="K 08" bezeichnung="Wissenschaft, Forschung, Entwicklung">
@@ -5214,7 +5627,6 @@
       <kompetenz idref="63988"/>
       <kompetenz idref="63989"/>
       <kompetenz idref="63990"/>
-      <kompetenz idref="63991"/>
       <kompetenz idref="63992"/>
       <kompetenz idref="63993"/>
       <kompetenz idref="63994"/>
@@ -5284,6 +5696,7 @@
       <kompetenz idref="64052"/>
       <kompetenz idref="64053"/>
       <kompetenz idref="124392"/>
+      <kompetenz idref="137259"/>
     </ebene_2>
     <ebene_2 id="57583" schluessel="K 0803" bezeichnung="Sprach- und Literaturwissenschaften allgemein">
       <kompetenz idref="67344"/>
@@ -5372,6 +5785,8 @@
       <kompetenz idref="64129"/>
       <kompetenz idref="64130"/>
       <kompetenz idref="131041"/>
+      <kompetenz idref="135754"/>
+      <kompetenz idref="134977"/>
     </ebene_2>
     <ebene_2 id="57586" schluessel="K 0806" bezeichnung="Mathematik, Physik">
       <kompetenz idref="67345"/>
@@ -5427,6 +5842,7 @@
       <kompetenz idref="94490"/>
       <kompetenz idref="124037"/>
       <kompetenz idref="123737"/>
+      <kompetenz idref="138922"/>
     </ebene_2>
     <ebene_2 id="57587" schluessel="K 0807" bezeichnung="Kommunikations-, Medienwissenschaften">
       <kompetenz idref="64180"/>
@@ -5536,6 +5952,7 @@
     <ebene_2 id="59925" schluessel="K 0811" bezeichnung="Agrar-, Forst- und Ernährungswissenschaften, Umwelt">
       <kompetenz idref="69788"/>
       <kompetenz idref="74128"/>
+      <kompetenz idref="63156"/>
       <kompetenz idref="64267"/>
       <kompetenz idref="64268"/>
       <kompetenz idref="64269"/>
@@ -5552,13 +5969,32 @@
       <kompetenz idref="64280"/>
       <kompetenz idref="64281"/>
       <kompetenz idref="64282"/>
-      <kompetenz idref="64283"/>
       <kompetenz idref="64284"/>
       <kompetenz idref="64285"/>
       <kompetenz idref="64286"/>
       <kompetenz idref="64287"/>
       <kompetenz idref="64288"/>
       <kompetenz idref="93293"/>
+      <kompetenz idref="138271"/>
+      <kompetenz idref="138272"/>
+      <kompetenz idref="138273"/>
+      <kompetenz idref="138274"/>
+      <kompetenz idref="138275"/>
+      <kompetenz idref="138276"/>
+      <kompetenz idref="138277"/>
+      <kompetenz idref="138278"/>
+      <kompetenz idref="138279"/>
+      <kompetenz idref="138280"/>
+      <kompetenz idref="138281"/>
+      <kompetenz idref="138282"/>
+      <kompetenz idref="138283"/>
+      <kompetenz idref="138284"/>
+      <kompetenz idref="138519"/>
+      <kompetenz idref="139080"/>
+      <kompetenz idref="138369"/>
+      <kompetenz idref="134801"/>
+      <kompetenz idref="134802"/>
+      <kompetenz idref="136543"/>
     </ebene_2>
     <ebene_2 id="59926" schluessel="K 0812" bezeichnung="Ingenieurwissenschaften">
       <kompetenz idref="73792"/>
@@ -5596,6 +6032,7 @@
         <kompetenz idref="64311"/>
         <kompetenz idref="64312"/>
         <kompetenz idref="67780"/>
+        <kompetenz idref="137538"/>
       </ebene_3>
       <ebene_3 id="60014" schluessel="K 090001" bezeichnung="Kirchen, Religionen, Diakonie, Gemeindearbeit">
         <kompetenz idref="78550"/>
@@ -5687,6 +6124,13 @@
         <kompetenz idref="128431"/>
         <kompetenz idref="126677"/>
         <kompetenz idref="132133"/>
+        <kompetenz idref="138759"/>
+        <kompetenz idref="138760"/>
+        <kompetenz idref="138102"/>
+        <kompetenz idref="134874"/>
+        <kompetenz idref="136180"/>
+        <kompetenz idref="135638"/>
+        <kompetenz idref="136602"/>
       </ebene_3>
     </ebene_2>
     <ebene_2 id="59928" schluessel="K 0901" bezeichnung="Erziehung, Unterricht">
@@ -5755,6 +6199,8 @@
         <kompetenz idref="133159"/>
         <kompetenz idref="133160"/>
         <kompetenz idref="133161"/>
+        <kompetenz idref="134273"/>
+        <kompetenz idref="136603"/>
       </ebene_3>
       <ebene_3 id="60018" schluessel="K 090101" bezeichnung="Pädagogische Richtungen und Bereiche">
         <kompetenz idref="77834"/>
@@ -5776,6 +6222,9 @@
         <kompetenz idref="64439"/>
         <kompetenz idref="64440"/>
         <kompetenz idref="64441"/>
+        <kompetenz idref="137601"/>
+        <kompetenz idref="137461"/>
+        <kompetenz idref="137020"/>
       </ebene_3>
       <ebene_3 id="60019" schluessel="K 090102" bezeichnung="Schulstufen und Unterrichtsfächer(sow.n.fachl.Ber.zugeord.)">
         <kompetenz idref="64442"/>
@@ -5928,6 +6377,9 @@
         <kompetenz idref="123264"/>
         <kompetenz idref="129966"/>
         <kompetenz idref="133162"/>
+        <kompetenz idref="134477"/>
+        <kompetenz idref="137705"/>
+        <kompetenz idref="136163"/>
       </ebene_3>
       <ebene_3 id="60021" schluessel="K 090201" bezeichnung="Gesundheitsökonomie, -verwaltung, -beratung">
         <kompetenz idref="73979"/>
@@ -5963,6 +6415,12 @@
         <kompetenz idref="133163"/>
         <kompetenz idref="133164"/>
         <kompetenz idref="133165"/>
+        <kompetenz idref="138761"/>
+        <kompetenz idref="138762"/>
+        <kompetenz idref="134679"/>
+        <kompetenz idref="137462"/>
+        <kompetenz idref="136544"/>
+        <kompetenz idref="136545"/>
       </ebene_3>
       <ebene_3 id="60022" schluessel="K 090202" bezeichnung="Körperpflege">
         <kompetenz idref="76830"/>
@@ -6008,6 +6466,7 @@
         <kompetenz idref="130333"/>
         <kompetenz idref="130334"/>
         <kompetenz idref="133337"/>
+        <kompetenz idref="138538"/>
       </ebene_3>
       <ebene_3 id="60023" schluessel="K 090203" bezeichnung="Krankenpflege, medizinische Assistenz">
         <kompetenz idref="77329"/>
@@ -6080,6 +6539,7 @@
         <kompetenz idref="128441"/>
         <kompetenz idref="130264"/>
         <kompetenz idref="133338"/>
+        <kompetenz idref="138923"/>
       </ebene_3>
       <ebene_3 id="60024" schluessel="K 090204" bezeichnung="Krankentransport, Rettungsdienst">
         <kompetenz idref="64686"/>
@@ -6381,6 +6841,7 @@
         <kompetenz idref="122346"/>
         <kompetenz idref="124527"/>
         <kompetenz idref="130997"/>
+        <kompetenz idref="134478"/>
       </ebene_3>
       <ebene_3 id="60031" schluessel="K 090211" bezeichnung="Tiermedizin">
         <kompetenz idref="64936"/>
@@ -6431,6 +6892,9 @@
         <kompetenz idref="64970"/>
         <kompetenz idref="64971"/>
         <kompetenz idref="64972"/>
+        <kompetenz idref="133572"/>
+        <kompetenz idref="138103"/>
+        <kompetenz idref="134978"/>
       </ebene_3>
       <ebene_3 id="60034" schluessel="K 090301" bezeichnung="Sportarten">
         <kompetenz idref="76517"/>
@@ -6516,6 +6980,10 @@
         <kompetenz idref="119430"/>
         <kompetenz idref="124474"/>
         <kompetenz idref="128350"/>
+        <kompetenz idref="138643"/>
+        <kompetenz idref="138349"/>
+        <kompetenz idref="134875"/>
+        <kompetenz idref="136384"/>
       </ebene_3>
       <ebene_3 id="60035" schluessel="K 090304" bezeichnung="Sportlizenzen, Qualifikationsnachweise">
         <kompetenz idref="65039"/>
@@ -6544,7 +7012,6 @@
       <kompetenz idref="65064"/>
       <kompetenz idref="65065"/>
       <kompetenz idref="65066"/>
-      <kompetenz idref="65067"/>
       <kompetenz idref="65068"/>
       <kompetenz idref="65069"/>
       <kompetenz idref="65070"/>
@@ -6565,7 +7032,7 @@
       <kompetenz idref="65086"/>
       <kompetenz idref="89270"/>
       <kompetenz idref="122221"/>
-      <kompetenz idref="129272"/>
+      <kompetenz idref="136385"/>
     </ebene_2>
   </ebene_1>
   <ebene_1 id="59884" schluessel="K 10" bezeichnung="Medien, Kunst, Gestaltung">
@@ -6662,6 +7129,7 @@
         <kompetenz idref="65149"/>
         <kompetenz idref="65150"/>
         <kompetenz idref="133167"/>
+        <kompetenz idref="136181"/>
       </ebene_3>
       <ebene_3 id="60039" schluessel="K 100003" bezeichnung="Museum, Ausstellung, Denkmalpflege">
         <kompetenz idref="65151"/>
@@ -7257,6 +7725,7 @@
         <kompetenz idref="65358"/>
         <kompetenz idref="65359"/>
         <kompetenz idref="63710"/>
+        <kompetenz idref="135755"/>
       </ebene_3>
       <ebene_3 id="60047" schluessel="K 100101" bezeichnung="Filmwirtschaft, Rundfunk, Fernsehen">
         <kompetenz idref="76413"/>
@@ -7442,6 +7911,7 @@
         <kompetenz idref="65392"/>
         <kompetenz idref="65393"/>
         <kompetenz idref="90408"/>
+        <kompetenz idref="134740"/>
       </ebene_3>
       <ebene_3 id="60048" schluessel="K 100102" bezeichnung="Fotografie, Fotolabor">
         <kompetenz idref="65394"/>
@@ -7636,6 +8106,10 @@
     <kompetenz idref="67769"/>
     <kompetenz idref="131194"/>
     <kompetenz idref="130998"/>
+    <kompetenz idref="138350"/>
+    <kompetenz idref="134876"/>
+    <kompetenz idref="137260"/>
+    <kompetenz idref="137181"/>
   </ebene_1>
   <ebene_1 id="59886" schluessel="K 12" bezeichnung="Arbeits-, Einsatzformen">
     <kompetenz idref="78499"/>
@@ -7846,6 +8320,7 @@
         <kompetenz idref="65700"/>
         <kompetenz idref="129387"/>
         <kompetenz idref="130107"/>
+        <kompetenz idref="138285"/>
       </ebene_3>
       <ebene_3 id="60064" schluessel="K 130301" bezeichnung="Sonstige metalltechnische, feinmechanische u. opt. Produkte">
         <kompetenz idref="69728"/>
@@ -7859,7 +8334,10 @@
         <kompetenz idref="133171"/>
       </ebene_3>
       <ebene_3 id="60065" schluessel="K 130302" bezeichnung="Versorgungs- und energietechnische Anlagen und Produkte">
+        <kompetenz idref="67387"/>
         <kompetenz idref="76410"/>
+        <kompetenz idref="69792"/>
+        <kompetenz idref="61321"/>
         <kompetenz idref="65708"/>
         <kompetenz idref="65709"/>
         <kompetenz idref="65710"/>
@@ -7886,6 +8364,18 @@
         <kompetenz idref="65731"/>
         <kompetenz idref="65732"/>
         <kompetenz idref="66929"/>
+        <kompetenz idref="138286"/>
+        <kompetenz idref="138287"/>
+        <kompetenz idref="138288"/>
+        <kompetenz idref="138289"/>
+        <kompetenz idref="138290"/>
+        <kompetenz idref="138291"/>
+        <kompetenz idref="138292"/>
+        <kompetenz idref="138293"/>
+        <kompetenz idref="138294"/>
+        <kompetenz idref="138295"/>
+        <kompetenz idref="138296"/>
+        <kompetenz idref="138297"/>
       </ebene_3>
       <ebene_3 id="60066" schluessel="K 130303" bezeichnung="Werkzeugbauprodukte">
         <kompetenz idref="65733"/>
@@ -7933,6 +8423,8 @@
         <kompetenz idref="133173"/>
         <kompetenz idref="133174"/>
         <kompetenz idref="133175"/>
+        <kompetenz idref="137384"/>
+        <kompetenz idref="137759"/>
       </ebene_3>
     </ebene_2>
     <ebene_2 id="59939" schluessel="K 1305" bezeichnung="Waren- und Produktkenntnisse - Haushaltswaren, Möbel">
@@ -7955,6 +8447,7 @@
         <kompetenz idref="65778"/>
         <kompetenz idref="65779"/>
         <kompetenz idref="100769"/>
+        <kompetenz idref="135357"/>
       </ebene_3>
     </ebene_2>
     <ebene_2 id="59940" schluessel="K 1306" bezeichnung="Waren- und Produktkenntnisse - Glas, Keramik">
@@ -8028,6 +8521,7 @@
         <kompetenz idref="76650"/>
         <kompetenz idref="76671"/>
         <kompetenz idref="76672"/>
+        <kompetenz idref="138104"/>
       </ebene_3>
       <ebene_3 id="60074" schluessel="K 130700" bezeichnung="Fahrzeugteile">
         <kompetenz idref="73655"/>
@@ -8040,6 +8534,7 @@
         <kompetenz idref="65807"/>
         <kompetenz idref="65808"/>
         <kompetenz idref="65809"/>
+        <kompetenz idref="138298"/>
       </ebene_3>
       <ebene_3 id="60075" schluessel="K 130701" bezeichnung="Fahrzeugtypen">
         <kompetenz idref="73793"/>
@@ -8079,6 +8574,12 @@
         <kompetenz idref="126859"/>
         <kompetenz idref="126862"/>
         <kompetenz idref="130840"/>
+        <kompetenz idref="138299"/>
+        <kompetenz idref="138300"/>
+        <kompetenz idref="138301"/>
+        <kompetenz idref="138539"/>
+        <kompetenz idref="134877"/>
+        <kompetenz idref="137463"/>
       </ebene_3>
       <ebene_3 id="60076" schluessel="K 130702" bezeichnung="Kfz-Marken">
         <kompetenz idref="77080"/>
@@ -8137,6 +8638,7 @@
         <kompetenz idref="74096"/>
         <kompetenz idref="100709"/>
         <kompetenz idref="101695"/>
+        <kompetenz idref="133573"/>
       </ebene_3>
       <ebene_3 id="60077" schluessel="K 130703" bezeichnung="Kräne, Förderanlagen, Transportgeräte">
         <kompetenz idref="65895"/>
@@ -8196,7 +8698,7 @@
         <kompetenz idref="65926"/>
       </ebene_3>
     </ebene_2>
-    <ebene_2 id="59942" schluessel="K 1308" bezeichnung="Waren-und Produktkenntnisse-Elektro-u.Komm.tech.,ITHardware">
+    <ebene_2 id="59942" schluessel="K 1308" bezeichnung="Waren-und Produktkenntnisse-Elektro-u.Komm.tech.,IT-Hardware">
       <ebene_3 id="60079" schluessel="K 130800" bezeichnung="Elektrogeräte, elektrotechnische Bauteile">
         <kompetenz idref="65927"/>
         <kompetenz idref="65928"/>
@@ -8216,6 +8718,8 @@
         <kompetenz idref="65942"/>
         <kompetenz idref="65943"/>
         <kompetenz idref="89188"/>
+        <kompetenz idref="138302"/>
+        <kompetenz idref="137097"/>
       </ebene_3>
       <ebene_3 id="60080" schluessel="K 130801" bezeichnung="Kommunikations- und informationstechnische Produkte">
         <kompetenz idref="73639"/>
@@ -8246,6 +8750,7 @@
         <kompetenz idref="70129"/>
         <kompetenz idref="93208"/>
         <kompetenz idref="129388"/>
+        <kompetenz idref="135756"/>
       </ebene_3>
     </ebene_2>
     <ebene_2 id="59943" schluessel="K 1309" bezeichnung="Waren- und Produktkenntnisse-Buchhandel,Medien,Kultur,Kunst">
@@ -8274,6 +8779,7 @@
         <kompetenz idref="65986"/>
         <kompetenz idref="133176"/>
         <kompetenz idref="133276"/>
+        <kompetenz idref="137760"/>
       </ebene_3>
     </ebene_2>
     <ebene_2 id="59944" schluessel="K 1310" bezeichnung="Waren- und Produktkenntnisse - Bautechnik, Baust., Rohst.">
@@ -8356,6 +8862,8 @@
         <kompetenz idref="66047"/>
         <kompetenz idref="67750"/>
         <kompetenz idref="133177"/>
+        <kompetenz idref="138303"/>
+        <kompetenz idref="138304"/>
       </ebene_3>
       <ebene_3 id="60089" schluessel="K 131006" bezeichnung="Steine, Erden, Beton, Baustoffe">
         <kompetenz idref="66048"/>
@@ -8378,6 +8886,8 @@
         <kompetenz idref="66065"/>
         <kompetenz idref="66066"/>
         <kompetenz idref="66067"/>
+        <kompetenz idref="138305"/>
+        <kompetenz idref="138306"/>
       </ebene_3>
       <ebene_3 id="60090" schluessel="K 131007" bezeichnung="Verputz- und Stuckarten">
         <kompetenz idref="66068"/>
@@ -8438,6 +8948,7 @@
         <kompetenz idref="66109"/>
         <kompetenz idref="66110"/>
         <kompetenz idref="66111"/>
+        <kompetenz idref="138307"/>
       </ebene_3>
       <ebene_3 id="60095" schluessel="K 131201" bezeichnung="Immobilientypen">
         <kompetenz idref="66112"/>
@@ -8537,8 +9048,16 @@
       <kompetenz idref="133183"/>
       <kompetenz idref="133339"/>
       <kompetenz idref="133238"/>
+      <kompetenz idref="133735"/>
       <kompetenz idref="132594"/>
+      <kompetenz idref="133634"/>
       <kompetenz idref="133457"/>
+      <kompetenz idref="138308"/>
+      <kompetenz idref="137602"/>
+      <kompetenz idref="138105"/>
+      <kompetenz idref="138106"/>
+      <kompetenz idref="137539"/>
+      <kompetenz idref="136182"/>
     </ebene_2>
     <ebene_2 id="59949" schluessel="K 1315" bezeichnung="Waren- u.Produktkenntnisse-Med.tech.,Sanit.-,Orthopäd.waren">
       <ebene_3 id="60099" schluessel="K 131500" bezeichnung="Orthopädiewaren, medizinische Artikel">
@@ -8696,7 +9215,27 @@
       <kompetenz idref="126666"/>
       <kompetenz idref="130985"/>
       <kompetenz idref="130882"/>
+      <kompetenz idref="134214"/>
       <kompetenz idref="132475"/>
+      <kompetenz idref="134274"/>
+      <kompetenz idref="138924"/>
+      <kompetenz idref="138925"/>
+      <kompetenz idref="137385"/>
+      <kompetenz idref="137662"/>
+      <kompetenz idref="137663"/>
+      <kompetenz idref="134878"/>
+      <kompetenz idref="137664"/>
+      <kompetenz idref="137665"/>
+      <kompetenz idref="137098"/>
+      <kompetenz idref="137706"/>
+      <kompetenz idref="137707"/>
+      <kompetenz idref="137708"/>
+      <kompetenz idref="135866"/>
+      <kompetenz idref="135867"/>
+      <kompetenz idref="135868"/>
+      <kompetenz idref="135869"/>
+      <kompetenz idref="137261"/>
+      <kompetenz idref="137182"/>
     </ebene_2>
     <ebene_2 id="59952" schluessel="K 1402" bezeichnung="Schweißerprüfungen">
       <kompetenz idref="66268"/>
@@ -8810,6 +9349,30 @@
       <kompetenz idref="123708"/>
       <kompetenz idref="123709"/>
       <kompetenz idref="123710"/>
+      <kompetenz idref="136386"/>
+      <kompetenz idref="136387"/>
+      <kompetenz idref="136388"/>
+      <kompetenz idref="136389"/>
+      <kompetenz idref="136390"/>
+      <kompetenz idref="136391"/>
+      <kompetenz idref="136392"/>
+      <kompetenz idref="136393"/>
+      <kompetenz idref="136394"/>
+      <kompetenz idref="136395"/>
+      <kompetenz idref="136396"/>
+      <kompetenz idref="136397"/>
+      <kompetenz idref="136398"/>
+      <kompetenz idref="136399"/>
+      <kompetenz idref="136400"/>
+      <kompetenz idref="136401"/>
+      <kompetenz idref="136402"/>
+      <kompetenz idref="136403"/>
+      <kompetenz idref="136404"/>
+      <kompetenz idref="136405"/>
+      <kompetenz idref="136406"/>
+      <kompetenz idref="136407"/>
+      <kompetenz idref="136408"/>
+      <kompetenz idref="136409"/>
     </ebene_2>
     <ebene_2 id="59955" schluessel="K 1405" bezeichnung="Patente, Schifffahrtslizenzen - Binnen-, Hafenschifffahrt">
       <kompetenz idref="65048"/>
@@ -8927,7 +9490,6 @@
     <kompetenz idref="67384"/>
     <kompetenz idref="67385"/>
     <kompetenz idref="67386"/>
-    <kompetenz idref="67387"/>
     <kompetenz idref="67388"/>
     <kompetenz idref="67389"/>
     <kompetenz idref="67390"/>
@@ -8990,7 +9552,6 @@
     <kompetenz idref="67447"/>
     <kompetenz idref="67448"/>
     <kompetenz idref="67449"/>
-    <kompetenz idref="67450"/>
     <kompetenz idref="67451"/>
     <kompetenz idref="67452"/>
     <kompetenz idref="67453"/>
